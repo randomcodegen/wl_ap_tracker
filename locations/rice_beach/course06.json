@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Rice Beach 06",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Rice Beach",
+				"x": 91,
+				"y": 52
+			}
+		]
+	}
+]

@@ -1,0 +1,118 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#877373",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "h_alignment": "center",
+                                "v_alignment": "center",
+                                "key": "shared_item_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Pinned Locations",
+                            "dock": "left",
+                            "content": {
+                                "type": "recentpins",
+                                "style": "wrap",
+                                "h_alignment": "stretch",
+                                "v_alignment": "stretch",
+                                "orientation": "vertical",
+                                "compact": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "tabs": [
+						{
+                            "title": "Rice Beach",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Rice Beach"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Mt. Teapot",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Mt. Teapot"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sherbet Land",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sherbet Land"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Stove Canyon",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Stove Canyon"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "SS Tea Cup",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "SS Tea Cup"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Parsley Woods",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Parsley Woods"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Syrup Castle",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Syrup Castle"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "layout",
+            "key": "tracker_items"
+        }
+    }
+}

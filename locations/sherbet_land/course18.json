@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Sherbet Land 18",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["create_coin"],
+				"item_count": 1
+			},
+			{
+				"name": "Treasure F",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["climb, dash, powerup_1", "climb, powerup_3"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Sherbet Land",
+				"x": 123,
+				"y": 92
+			}
+		]
+	}
+]

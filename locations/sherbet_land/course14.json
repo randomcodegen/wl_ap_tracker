@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Sherbet Land 14",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Sherbet Land",
+				"x": 131,
+				"y": 28
+			}
+		]
+	}
+]

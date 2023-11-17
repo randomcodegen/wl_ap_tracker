@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Rice Beach 03",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin"],
+				"item_count": 1
+			},
+			{
+				"name": "Secret Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin, $can_highjump","$can_create_coin, $rb_flooded)"],
+				"item_count": 1
+			},
+			{
+				"name": "Treasure A",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["$can_jet, $rb_flooded", "can_dragon(), can_duck(), $rb_flooded"],
+				"item_count": 1
+			}
+
+		],
+		"map_locations": [
+			{
+				"map": "Rice Beach",
+				"x": 67,
+				"y": 84
+			}
+		]
+	}
+]

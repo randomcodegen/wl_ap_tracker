@@ -1,0 +1,129 @@
+{
+    "abilities": {
+        "type": "dock",
+        "dock": "left",
+        "h_alignment": "left",
+        "v_alignment": "center",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "rows": [
+                    [
+                        "climb",
+                        "duck",
+                        "dash"
+                    ],
+                    [                      
+                        "create_coin",
+                        "highjump"
+                    ],
+                ]
+            }
+        ]
+    },
+	"powerups": {
+        "type": "dock",
+        "dock": "top",
+        "h_alignment": "center",
+        "v_alignment": "center",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "rows": [
+                    [
+                        "progressive_powerup",
+                    ],
+                    [
+                        "garlic_powerup",
+                        "bull",
+                        "dragon",
+						"jet"
+                    ]
+                ]
+            }
+        ]
+    },
+	"settings": {
+        "type": "dock",
+        "dock": "left",
+        "h_alignment": "center",
+        "v_alignment": "top",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "10,10",
+                "rows": [
+                    [
+                        "goal",
+                        "treasure_checks",
+						"world_unlocks",
+						"boss_unlocks"
+                    ],
+                    [
+                        "boss_tokens",
+						"bosses_required"
+                    ],
+                    [
+						"garlic_cloves",
+                        "garlic_cloves_required"
+                    ]
+                ]
+            }
+        ]
+    },
+	"shared_item_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "dock",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Abilities",
+                        "dock": "left",
+                        "h_alignment": "center",
+                        "content": [
+                            {
+                                "type": "layout",
+                                "key": "abilities"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "dock",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Powerups",
+                        "dock": "top",
+                        "h_alignment": "center",
+                        "content": {
+                            "type": "layout",
+                            "key": "powerups"
+                        }
+                    },
+                ]
+            },
+			{
+                "type": "dock",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Settings",
+                        "dock": "top",
+                        "h_alignment": "center",
+                        "content": {
+                            "type": "layout",
+                            "key": "settings"
+                        }
+                    },
+                ]
+            },
+        ]
+    }
+}

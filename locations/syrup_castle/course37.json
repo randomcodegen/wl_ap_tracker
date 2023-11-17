@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Syrup Castle 37",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin"],
+				"item_count": 1
+			},
+			{
+				"name": "Treasure N",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["$can_open_treasure"],
+				"item_count": 1
+			}
+			
+		],
+		"map_locations": [
+			{
+				"map": "Syrup Castle",
+				"x": 99,
+				"y": 124
+			}
+		]
+	}
+]

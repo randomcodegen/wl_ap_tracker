@@ -1,0 +1,151 @@
+[
+    {
+        "name": "Goal",
+        "type": "toggle",
+        "img": "images/items/garlic.png",
+        "disabled_img": "images/items/genie.png",
+        "disabled_img_mods": "none",
+        "codes": "goal"
+    },
+	{
+        "name": "Rice Beach",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "ricebeach"
+    },
+	{
+        "name": "Mt. Teapot",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "mtteapot"
+    },
+	{
+        "name": "Stove Canyon",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "stovecanyon"
+    },
+	{
+        "name": "Parsley Woods",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "parsleywoods"
+    },
+	{
+        "name": "SS Teacup",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "ssteacup"
+    },
+	{
+        "name": "Sherbet Land",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "sherbetland"
+    },
+	{
+        "name": "Syrup Castle",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "syrupcastle"
+    },
+	{
+        "name": "Rice Beach Boss Unlock",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "ricebeach_bossunlock"
+    },
+	{
+        "name": "Mt. Teapot Boss Unlock",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "mtteapot_bossunlock"
+    },
+	{
+        "name": "Stove Canyon Boss Unlock",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "stovecanyon_bossunlock"
+    },
+	{
+        "name": "Parsley Woods Boss Unlock",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "parsleywoods_bossunlock"
+    },
+	{
+        "name": "SS Teacup Boss Unlock",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "ssteacup_bossunlock"
+    },
+	{
+        "name": "Sherbet Land Boss Unlock",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "sherbetland_bossunlock"
+    },
+	{
+        "name": "Syrup Castle Boss Unlock",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "syrupcastle_bossunlock"
+    },
+    {
+        "name": "Treasure Checks",
+        "type": "toggle",
+        "img": "images/items/treasure.png",
+        "disabled_img": "images/items/treasure_no.png",
+        "codes": "treasure_checks"
+    },
+	{
+        "name": "Worlds Locked",
+        "type": "toggle",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
+        "codes": "world_unlocks"
+    },
+	{
+        "name": "Bosses Locked",
+        "type": "toggle",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock_no.png",
+        "codes": "boss_unlocks"
+    },
+    {
+        "name": "Bosses Required",
+        "type": "consumable",
+        "img": "images/items/boss.png",
+        "initial_quantity": 0,
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "overlay_font_size": 14,
+        "codes": "bosses_required"
+    },
+    {
+        "name": "Garlic Cloves Required",
+        "type": "consumable",
+        "img": "images/items/garlic.png",
+        "initial_quantity": 0,
+        "min_quantity": 0,
+        "max_quantity": 30,
+        "increment": 1,
+        "overlay_font_size": 14,
+        "codes": "garlic_cloves_required"
+    }
+]

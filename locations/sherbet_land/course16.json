@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Sherbet Land 16",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin, $can_climb"],
+				"item_count": 1
+			},
+			{
+				"name": "Secret Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin"],
+				"item_count": 1
+			},
+			{
+				"name": "Treasure D",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["$can_open_treasure"],
+				"item_count": 1
+			}
+			
+		],
+		"map_locations": [
+			{
+				"map": "Sherbet Land",
+				"x": 75,
+				"y": 92
+			}
+		]
+	}
+]

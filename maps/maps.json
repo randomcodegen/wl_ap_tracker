@@ -1,0 +1,50 @@
+﻿[
+    {
+        "name": "Overworld",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/overworld.png"
+    },
+    {
+        "name": "Rice Beach",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Rice Beach.png"
+    },
+    {
+        "name": "Mt. Teapot",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Mt Teapot.png"
+    },
+    {
+        "name": "Sherbet Land",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Sherbet Land.png"
+    },
+    {
+        "name": "Parsley Woods",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Parsley Woods.png"
+    },
+    {
+        "name": "SS Tea Cup",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/SS Tea Cup.png"
+    },
+    {
+        "name": "Stove Canyon",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Stove Canyon.png"
+    },
+    {
+        "name": "Syrup Castle",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Syrup Castle.png"
+    }
+]

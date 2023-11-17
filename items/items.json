@@ -1,0 +1,122 @@
+[
+   {
+        "name": "Progressive Powerup",
+        "type": "progressive",
+        "codes": "progressive_powerup",
+        "stages": [
+            {
+                "img": "images/items/wario_big.png",
+                "disabled_img": "images/items/wario_small.png",
+                "disabled_img_mods": "none",
+                "codes": "powerup_1",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/wario_bull.png",
+                "codes": "powerup_2",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/wario_dragon.png",
+                "codes": "powerup_3",
+                "inherit_codes": true
+            },
+	    {
+                "img": "images/items/wario_jet.png",
+                "codes": "powerup_4",
+                "inherit_codes": true
+            }
+        ]
+    },
+	{
+        "name": "Garlic",
+        "type": "toggle",
+        "img": "images/items/wario_big.png",
+		"disabled_img": "images/items/wario_big_no.png",
+        "disabled_img_mods": "none",
+        "codes": "garlic_powerup"
+    },
+	{
+        "name": "Bull",
+        "type": "toggle",
+        "img": "images/items/wario_bull.png",
+		"disabled_img": "images/items/wario_bull_no.png",
+        "disabled_img_mods": "none",
+        "codes": "bull"
+    },
+	{
+        "name": "Dragon",
+        "type": "toggle",
+        "img": "images/items/wario_dragon.png",
+		"disabled_img": "images/items/wario_dragon_no.png",
+        "disabled_img_mods": "none",
+        "codes": "dragon"
+    },
+	{
+        "name": "Jet",
+        "type": "toggle",
+        "img": "images/items/wario_jet.png",
+		"disabled_img": "images/items/wario_jet_no.png",
+        "disabled_img_mods": "none",
+        "codes": "jet"
+    },
+    {
+        "name": "Duck",
+        "type": "toggle",
+        "img": "images/items/duck.png",
+		"disabled_img": "images/items/duck_no.png",
+        "disabled_img_mods": "none",
+        "codes": "duck"
+    },
+    {
+        "name": "Dash",
+        "type": "toggle",
+        "img": "images/items/dash.png",
+		"disabled_img": "images/items/dash_no.png",
+        "disabled_img_mods": "none",
+        "codes": "dash"
+    },
+    {
+        "name": "Climb",
+        "type": "toggle",
+        "img": "images/items/climb.png",
+		"disabled_img": "images/items/climb_no.png",
+        "disabled_img_mods": "none",
+        "codes": "climb"
+    },
+    {
+        "name": "Create Coin",
+        "type": "toggle",
+        "img": "images/items/create_coin.png",
+		"disabled_img": "images/items/create_coin_no.png",
+        "disabled_img_mods": "none",
+        "codes": "create_coin"
+    },
+    {
+        "name": "High Jump",
+        "type": "toggle",
+        "img": "images/items/highjump.png",
+		"disabled_img": "images/items/highjump_no.png",
+        "disabled_img_mods": "none",
+        "codes": "highjump"
+    },
+    {
+        "name": "Boss Tokens",
+        "type": "consumable",
+        "img": "images/items/boss.png",
+		"disabled_img": "images/items/boss_no.png",
+        "disabled_img_mods": "none",
+        "codes": "boss_tokens",
+        "max_quantity": 6,
+        "overlay_font_size": 14
+    },
+    {
+        "name": "Garlic Cloves",
+        "type": "consumable",
+        "img": "images/items/garlic.png",
+		"disabled_img": "images/items/garlic_no.png",
+        "codes": "garlic_cloves",
+        "max_quantity": 30,
+        "overlay_font_size": 14
+    }, 
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Rice Beach 05",
+		"access_rules": ["ricebeach, ricebeach_bossunlock"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Boss",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Rice Beach",
+				"x": 75,
+				"y": 16
+			}
+		]
+	}
+]

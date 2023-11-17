@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Syrup Castle 38",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+			
+		],
+		"map_locations": [
+			{
+				"map": "Syrup Castle",
+				"x": 83,
+				"y": 100
+			}
+		]
+	}
+]

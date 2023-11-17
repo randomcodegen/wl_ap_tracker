@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Parsley Woods 34",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin, $can_climb"],
+				"item_count": 1
+			},
+			{
+				"name": "Treasure M",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["$can_open_treasure, $can_climb"],
+				"item_count": 1
+			}
+			
+		],
+		"map_locations": [
+			{
+				"map": "Parsley Woods",
+				"x": 139,
+				"y": 76
+			}
+		]
+	}
+]

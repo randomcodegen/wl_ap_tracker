@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Parsley Woods 32",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"item_count": 1
+			}
+			
+		],
+		"map_locations": [
+			{
+				"map": "Parsley Woods",
+				"x": 75,
+				"y": 108
+			}
+		]
+	}
+]
