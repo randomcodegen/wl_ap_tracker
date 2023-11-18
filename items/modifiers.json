@@ -7,6 +7,49 @@
         "disabled_img_mods": "none",
         "codes": "goal"
     },
+    {
+        "name": "Treasure Checks",
+        "type": "toggle",
+        "img": "images/items/treasure.png",
+        "disabled_img": "images/items/treasure_no.png",
+        "codes": "treasure_checks"
+    },
+	{
+        "name": "Worlds Locked",
+        "type": "toggle",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
+        "codes": "world_unlocks"
+    },
+	{
+        "name": "Bosses Locked",
+        "type": "toggle",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock_no.png",
+        "codes": "boss_unlocks"
+    },
+    {
+        "name": "Bosses Required",
+        "type": "consumable",
+        "img": "images/items/boss.png",
+        "initial_quantity": 0,
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "overlay_font_size": 14,
+        "codes": "bosses_required"
+    },
+    {
+        "name": "Garlic Cloves Required",
+        "type": "consumable",
+        "img": "images/items/garlic.png",
+        "initial_quantity": 0,
+        "min_quantity": 0,
+        "max_quantity": 30,
+        "increment": 1,
+        "overlay_font_size": 14,
+        "codes": "garlic_cloves_required"
+    },
 	{
         "name": "Rice Beach",
         "type": "toggle",
@@ -105,47 +148,25 @@
         "disabled_img": "",
         "codes": "syrupcastle_bossunlock"
     },
-    {
-        "name": "Treasure Checks",
-        "type": "toggle",
-        "img": "images/items/treasure.png",
-        "disabled_img": "images/items/treasure_no.png",
-        "codes": "treasure_checks"
-    },
 	{
-        "name": "Worlds Locked",
+		"name": "Rice Beach Flooded",
         "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "world_unlocks"
-    },
+        "img": "",
+        "disabled_img": "",
+        "codes": "rb_flooded"
+	},
 	{
-        "name": "Bosses Locked",
+		"name": "Parsley Woods Lake Drained",
         "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock_no.png",
-        "codes": "boss_unlocks"
-    },
-    {
-        "name": "Bosses Required",
-        "type": "consumable",
-        "img": "images/items/boss.png",
-        "initial_quantity": 0,
-        "min_quantity": 0,
-        "max_quantity": 6,
-        "increment": 1,
-        "overlay_font_size": 14,
-        "codes": "bosses_required"
-    },
-    {
-        "name": "Garlic Cloves Required",
-        "type": "consumable",
-        "img": "images/items/garlic.png",
-        "initial_quantity": 0,
-        "min_quantity": 0,
-        "max_quantity": 30,
-        "increment": 1,
-        "overlay_font_size": 14,
-        "codes": "garlic_cloves_required"
-    }
+        "img": "",
+        "disabled_img": "",
+        "codes": "pw_drained"
+	},
+	{
+		"name": "Teapot boss tile unlocked",
+        "type": "toggle",
+        "img": "",
+        "disabled_img": "",
+        "codes": "mt_boss_tile_unlocked"
+	}
 ]

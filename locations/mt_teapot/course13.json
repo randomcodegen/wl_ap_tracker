@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Mt. Teapot 13",
-		"access_rules": ["mtteapot, mtteapot_bossunlock, $teapot_bossspot"],
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
 		"visibility_rules": [],
 		"sections": [
 			{

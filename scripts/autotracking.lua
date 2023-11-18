@@ -122,6 +122,20 @@ function onLocation(location_id, location_name)
     if obj then
         obj.AvailableChestCount = obj.AvailableChestCount - 1
     end
+	--handle specific cases for logic
+	if loc_name=="Rice Beach 05" and loc_type=="Boss" then
+		print("Update rb_flooded item")
+		local obj = Tracker:FindObjectForCode("rb_flooded")
+		obj.Active = true
+	end
+	if loc_name=="Parsley Woods 32" and loc_type=="Normal Exit" then
+		local obj = Tracker:FindObjectForCode("pw_drained")
+		obj.Active = true
+	end
+	if loc_name=="Mt. Teapot 12" and loc_type=="Normal Exit" then
+		local obj = Tracker:FindObjectForCode("mt_boss_tile_unlocked")
+		obj.Active = true
+	end
 end
 
 

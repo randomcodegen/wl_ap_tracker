@@ -43,36 +43,6 @@ function can_highjump()
     return has("highjump")
 end
 
-function pw_flooded()
-	chests_left = Tracker:FindObjectForCode("@Parsley Woods 32/Normal Exit").AvailableChestCount
-	print(string.format("PW32 Chests left: %s",chests_left))
-	if chests_left == 0 then
-		return 1
-	else
-		return 0
-	end
-end
-
-function rb_flooded()
-	chests_left = Tracker:FindObjectForCode("@Rice Beach 02/Normal Exit").AvailableChestCount
-	print(string.format("RB02 Chests left: %s",chests_left))
-	if chests_left == 0 then
-		return 1
-	else
-		return 0
-	end
-end
-
-function teapot_bossspot()
-	chests_left = Tracker:FindObjectForCode("@Mt. Teapot 12/Normal Exit").AvailableChestCount
-	print(string.format("MTT12 Chests left: %s",chests_left))
-	if chests_left == 0 then
-		return 1
-	else
-		return 0
-	end
-end
-
 function can_duck()
     return has("duck")
 end
