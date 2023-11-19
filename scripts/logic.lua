@@ -48,7 +48,7 @@ function can_duck()
 end
 
 function can_dash()
-    return ((has("dash") and can_garlic()) or can_bull())
+    return (has("dash") and (can_garlic()) or can_bull()))
 end
 
 function can_open_treasure()
