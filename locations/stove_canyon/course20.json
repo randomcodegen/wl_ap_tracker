@@ -5,20 +5,44 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Normal Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_climb"],
-				"item_count": 1
+				"ref": "Stove Canyon 20 - Normal Exit/Normal Exit"
 			},
 			{
-				"name": "Treasure G",
-				"chest_unopened_img": "images/checks/treasure_disabled.png",
-				"chest_opened_img": "images/checks/treasure.png",
-				"visibility_rules": ["treasure_checks"],
-				"access_rules": ["$can_climb, $can_open_treasure"],
-				"item_count": 1
-			}
+				"ref": "Stove Canyon 20 - Treasure G/Treasure G"
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 1/Block 1",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 2/Block 2",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 3/Block 3",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 4/Block 4",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 5/Block 5",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 6/Block 6",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 7/Block 7",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 8/Block 8",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 9/Block 9",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 10/Block 10",
+			},
+			{
+				"ref": "Stove Canyon 20 - Block 11/Block 11",
+			},
 		],
 		"map_locations": [
 			{

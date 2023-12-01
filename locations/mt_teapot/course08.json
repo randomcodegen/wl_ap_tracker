@@ -5,19 +5,77 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Normal Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin"],
-				"item_count": 1
+				"ref": "Mt. Teapot 08 - Normal Exit/Normal Exit"
 			},
 			{
-				"name": "Secret Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin, $can_jet"],
-				"item_count": 1
-			}
+				"ref": "Mt. Teapot 08 - Secret Exit/Secret Exit"
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 1/Block 1",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 2/Block 2",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 3/Block 3",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 4/Block 4",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 5/Block 5",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 6/Block 6",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 7/Block 7",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 8/Block 8",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 9/Block 9",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 10/Block 10",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 11/Block 11",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 12/Block 12",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 13/Block 13",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 14/Block 14",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 15/Block 15",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 16/Block 16",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 17/Block 17",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 18/Block 18",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 19/Block 19",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 20/Block 20",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 21/Block 21",
+			},
+			{
+				"ref": "Mt. Teapot 08 - Block 22/Block 22",
+			},
 		],
 		"map_locations": [
 			{

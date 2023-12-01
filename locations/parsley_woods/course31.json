@@ -5,21 +5,92 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Normal Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin"],
-				"item_count": 1
+				"ref": "Parsley Woods 31 - Normal Exit/Normal Exit"
 			},
 			{
-				"name": "Treasure L",
-				"chest_unopened_img": "images/checks/treasure_disabled.png",
-				"chest_opened_img": "images/checks/treasure.png",
-				"visibility_rules": ["treasure_checks"],
-				"access_rules": ["pw_drained, $can_open_treasure, $can_climb"],
-				"item_count": 1
-			}
-			
+				"ref": "Parsley Woods 31 - Treasure L/Treasure L"
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 1/Block 1",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 2/Block 2",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 3/Block 3",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 4/Block 4",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 5/Block 5",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 6/Block 6",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 7/Block 7",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 8/Block 8",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 9/Block 9",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 10/Block 10",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 11/Block 11",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 12/Block 12",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 13/Block 13",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 14/Block 14",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 1 (drained)/Block 1 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 2 (drained)/Block 2 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 3 (drained)/Block 3 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 4 (drained)/Block 4 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 5 (drained)/Block 5 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 6 (drained)/Block 6 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 7 (drained)/Block 7 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 8 (drained)/Block 8 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 9 (drained)/Block 9 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 10 (drained)/Block 10 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 11 (drained)/Block 11 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 12 (drained)/Block 12 (drained)",
+			},
+			{
+				"ref": "Parsley Woods 31 - Block 13 (drained)/Block 13 (drained)",
+			},
 		],
 		"map_locations": [
 			{

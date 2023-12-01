@@ -1,0 +1,295 @@
+[
+	{
+		"name": "Parsley Woods 34 - Block 1",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 72,
+				"y": 946
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 2",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 392,
+				"y": 946
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 3",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 168,
+				"y": 706
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 4",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 248,
+				"y": 546
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 5",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 184,
+				"y": 88
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 6",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 812,
+				"y": 578
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 7",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 748,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 8",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 764,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 9",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 1232,
+				"y": 658
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 10",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 10",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 1360,
+				"y": 818
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 11",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 11",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 1376,
+				"y": 818
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Block 12",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 12",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 1552,
+				"y": 642
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Normal Exit",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin, $can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 1184,
+				"y": 689
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 34 - Treasure M",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Treasure M",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["$can_open_treasure, $can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.34",
+				"x": 1269,
+				"y": 138
+			}
+		]
+	}
+]

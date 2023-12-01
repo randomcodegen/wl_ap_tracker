@@ -1,0 +1,183 @@
+[
+	{
+		"name": "Mt. Teapot 12 - Block 1",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 536,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 12 - Block 2",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 632,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 12 - Block 3",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 728,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 12 - Block 4",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 1016,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 12 - Block 5",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 1496,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 12 - Block 6",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 1051,
+				"y": 475
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 12 - Block 7",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 1051,
+				"y": 347
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 12 - Block 8",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 1163,
+				"y": 267
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 12 - Normal Exit",
+		"access_rules": ["mtteapot"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_climb", "$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.12",
+				"x": 1388,
+				"y": 213
+			}
+		]
+	}
+]

@@ -1,118 +1,463 @@
 {
-    "tracker_default": {
-        "type": "container",
-        "background": "#877373",
-        "content": {
-            "type": "dock",
-            "dropshadow": true,
-            "content": [
-                                {
-                    "type": "dock",
-                    "dock": "bottom",
-                    "content": [
-                        {
-                            "type": "group",
-                            "header": "Items",
-                            "dock": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "h_alignment": "center",
-                                "v_alignment": "center",
-                                "key": "shared_item_grid"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Pinned Locations",
-                            "dock": "left",
-                            "content": {
-                                "type": "recentpins",
-                                "style": "wrap",
-                                "h_alignment": "stretch",
-                                "v_alignment": "stretch",
-                                "orientation": "vertical",
-                                "compact": true
-                            }
-                        }
-                    ]
-                },
-                {
-                    "type": "tabbed",
-                    "tabs": [
-						{
-                            "title": "Rice Beach",
-                            "content": {
-                                "type": "map",
-                                "maps": [
+   "tracker_default": {
+      "type": "container",
+      "background": "#877373",
+      "content": {
+         "type": "dock",
+         "dropshadow": true,
+         "content": [
+            {
+               "type": "dock",
+               "dock": "bottom",
+               "content": [
+                  {
+                     "type": "group",
+                     "header": "Items",
+                     "dock": "left",
+                     "margin": "0,0,3,0",
+                     "content": {
+                        "type": "layout",
+                        "h_alignment": "center",
+                        "v_alignment": "center",
+                        "key": "shared_item_grid"
+                     }
+                  },
+                  {
+                     "type": "group",
+                     "header": "Pinned Locations",
+                     "dock": "left",
+                     "content": {
+                        "type": "recentpins",
+                        "style": "wrap",
+                        "h_alignment": "stretch",
+                        "v_alignment": "stretch",
+                        "orientation": "vertical",
+                        "compact": true
+                     }
+                  }
+               ]
+            },
+            {
+               "type": "tabbed",
+               "tabs": [
+                  {
+                     "title": "Rice Beach",
+                     "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                           {
+                              "title": "Rice Beach",
+                              "content": {
+                                 "type": "map",
+                                 "maps": [
                                     "Rice Beach"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Mt. Teapot",
-                            "content": {
-                                "type": "map",
-                                "maps": [
+                                 ]
+                              }
+                           },
+                           {
+                              "title": "Course No.01",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.01"]
+                              }
+                           },
+                           {
+                              "title": "Course No.02",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.02"]
+                              }
+                           },
+                           {
+                              "title": "Course No.03",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.03"]
+                              }
+                           },
+                           {
+                              "title": "Course No.04",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.04"]
+                              }
+                           },
+                           {
+                              "title": "Course No.05",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.05"]
+                              }
+                           },
+                           {
+                              "title": "Course No.06",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.06"]
+                              }
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "title": "Mt. Teapot",
+                     "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                           {
+                              "title": "Mt. Teapot",
+                              "content": {
+                                 "type": "map",
+                                 "maps": [
                                     "Mt. Teapot"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Sherbet Land",
-                            "content": {
-                                "type": "map",
-                                "maps": [
+                                 ]
+                              }
+                           },
+                           {
+                              "title": "Course No.07",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.07"]
+                              }
+                           },
+                           {
+                              "title": "Course No.08",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.08"]
+                              }
+                           },
+                           {
+                              "title": "Course No.09",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.09"]
+                              }
+                           },
+                           {
+                              "title": "Course No.10",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.10"]
+                              }
+                           },
+                           {
+                              "title": "Course No.11",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.11"]
+                              }
+                           },
+                           {
+                              "title": "Course No.12",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.12"]
+                              }
+                           },
+                           {
+                              "title": "Course No.13",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.13"]
+                              }
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "title": "Sherbet Land",
+                     "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                           {
+                              "title": "Sherbet Land",
+                              "content": {
+                                 "type": "map",
+                                 "maps": [
                                     "Sherbet Land"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Stove Canyon",
-                            "content": {
-                                "type": "map",
-                                "maps": [
+                                 ]
+                              }
+                           },
+                           {
+                              "title": "Course No.14",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.14"]
+                              }
+                           },
+                           {
+                              "title": "Course No.15",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.15"]
+                              }
+                           },
+                           {
+                              "title": "Course No.16",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.16"]
+                              }
+                           },
+                           {
+                              "title": "Course No.17",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.17"]
+                              }
+                           },
+                           {
+                              "title": "Course No.18",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.18"]
+                              }
+                           },
+                           {
+                              "title": "Course No.19",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.19"]
+                              }
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "title": "Stove Canyon",
+                     "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                           {
+                              "title": "Stove Canyon",
+                              "content": {
+                                 "type": "map",
+                                 "maps": [
                                     "Stove Canyon"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "SS Tea Cup",
-                            "content": {
-                                "type": "map",
-                                "maps": [
+                                 ]
+                              }
+                           },
+                           {
+                              "title": "Course No.20",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.20"]
+                              }
+                           },
+                           {
+                              "title": "Course No.21",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.21"]
+                              }
+                           },
+                           {
+                              "title": "Course No.22",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.22"]
+                              }
+                           },
+                           {
+                              "title": "Course No.23",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.23"]
+                              }
+                           },
+                           {
+                              "title": "Course No.24",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.24"]
+                              }
+                           },
+                           {
+                              "title": "Course No.25",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.25"]
+                              }
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "title": "SS Tea Cup",
+                     "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                           {
+                              "title": "SS Tea Cup",
+                              "content": {
+                                 "type": "map",
+                                 "maps": [
                                     "SS Tea Cup"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Parsley Woods",
-                            "content": {
-                                "type": "map",
-                                "maps": [
+                                 ]
+                              }
+                           },
+                           {
+                              "title": "Course No.26",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.26"]
+                              }
+                           },
+                           {
+                              "title": "Course No.27",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.27"]
+                              }
+                           },
+                           {
+                              "title": "Course No.28",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.28"]
+                              }
+                           },
+                           {
+                              "title": "Course No.29",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.29"]
+                              }
+                           },
+                           {
+                              "title": "Course No.30",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.30"]
+                              }
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "title": "Parsley Woods",
+                     "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                           {
+                              "title": "Parsley Woods",
+                              "content": {
+                                 "type": "map",
+                                 "maps": [
                                     "Parsley Woods"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Syrup Castle",
-                            "content": {
-                                "type": "map",
-                                "maps": [
+                                 ]
+                              }
+                           },
+                           {
+                              "title": "Course No.31",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.31"]
+                              }
+                           },
+                           {
+                              "title": "Course No.31 Drained",
+                              "content": {
+                                 "type": "map",
+                                 "maps": [
+                                    "Course No.31 Drained"
+                                 ]
+                              }
+                           },
+                           {
+                              "title": "Course No.32",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.32"]
+                              }
+                           },
+                           {
+                              "title": "Course No.33",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.33"]
+                              }
+                           },
+                           {
+                              "title": "Course No.34",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.34"]
+                              }
+                           },
+                           {
+                              "title": "Course No.35",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.35"]
+                              }
+                           },
+                           {
+                              "title": "Course No.36",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.36"]
+                              }
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "title": "Syrup Castle",
+                     "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                           {
+                              "title": "Syrup Castle",
+                              "content": {
+                                 "type": "map",
+                                 "maps": [
                                     "Syrup Castle"
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    "tracker_broadcast": {
-        "type": "container",
-        "content": {
-            "type": "layout",
-            "key": "tracker_items"
-        }
-    }
+                                 ]
+                              }
+                           },
+                           {
+                              "title": "Course No.37",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.37"]
+                              }
+                           },
+                           {
+                              "title": "Course No.38",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.38"]
+                              }
+                           },
+                           {
+                              "title": "Course No.39",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.39"]
+                              }
+                           },
+                           {
+                              "title": "Course No.40",
+                              "content": {
+                                 "type": "map",
+                                 "maps": ["Course No.40"]
+                              }
+                           }
+                        ]
+                     }
+                  }
+               ]
+            }
+         ]
+      }
+   },
+   "tracker_broadcast": {
+      "type": "container",
+      "content": {
+         "type": "layout",
+         "key": "tracker_items"
+      }
+   }
 }

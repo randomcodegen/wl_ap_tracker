@@ -1,0 +1,367 @@
+[
+	{
+		"name": "Rice Beach 03 - Block 1",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 392,
+				"y": 194
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 2",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 488,
+				"y": 194
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 3",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 776,
+				"y": 240
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 4",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_dragon,$can_duck","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 872,
+				"y": 257
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 5",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1368,
+				"y": 177
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 6",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1800,
+				"y": 224
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 7",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 81,
+				"y": 588
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 8",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 481,
+				"y": 700
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 9",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 641,
+				"y": 700
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 10",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 10",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 945,
+				"y": 525
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 11",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 11",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1752,
+				"y": 382
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 12",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 12",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1768,
+				"y": 382
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 13",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 13",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1784,
+				"y": 382
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 14",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 14",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1800,
+				"y": 382
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Block 15",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 15",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1355,
+				"y": 557
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Normal Exit",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1497,
+				"y": 604
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Secret Exit",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Secret Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin, $can_highjump","$can_create_coin, rb_flooded"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 1786,
+				"y": 604
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 03 - Treasure A",
+		"access_rules": ["ricebeach"],
+		"visibility_rules": ["treasure_checks"],
+		"sections": [
+			{
+				"name": "Treasure A",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"access_rules": ["$can_jet, rb_flooded", "$can_dragon, $can_duck, rb_flooded"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.03",
+				"x": 528,
+				"y": 70
+			}
+		]
+	}
+]

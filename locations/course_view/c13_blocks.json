@@ -1,0 +1,456 @@
+[
+	{
+		"name": "Mt. Teapot 13 - Block 1",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 328,
+				"y": 491
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 2",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 344,
+				"y": 443
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 3",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 472,
+				"y": 427
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 4",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 520,
+				"y": 491
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 5",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 632,
+				"y": 347
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 6",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 680,
+				"y": 443
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 7",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 968,
+				"y": 443
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 8",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1080,
+				"y": 443
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 9",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1208,
+				"y": 491
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 10",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 10",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1400,
+				"y": 491
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 11",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 11",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1368,
+				"y": 315
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 12",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 12",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1432,
+				"y": 203
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 13",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 13",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1768,
+				"y": 203
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 14",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 14",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1784,
+				"y": 203
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 15",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 15",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1800,
+				"y": 203
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 16",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 16",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock,$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1784,
+				"y": 443
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 17",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 17",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock,$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 848,
+				"y": 871
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 18",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 18",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock,$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 944,
+				"y": 871
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 19",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 19",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock,$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1040,
+				"y": 871
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 20",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 20",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock,$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 848,
+				"y": 791
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Block 21",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 21",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_groundblock,$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 960,
+				"y": 791
+			}
+		]
+	},
+	{
+		"name": "Mt. Teapot 13 - Boss",
+		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Boss",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.13",
+				"x": 1515,
+				"y": 690
+			}
+		]
+	}
+]

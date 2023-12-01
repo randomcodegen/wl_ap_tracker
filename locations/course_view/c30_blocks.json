@@ -1,0 +1,525 @@
+[
+	{
+		"name": "SS Tea Cup 30 - Block 1",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 328,
+				"y": 871
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 2",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_dash","$can_bull","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 536,
+				"y": 871
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 3",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_dash","$can_bull","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 552,
+				"y": 871
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 4",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_dash","$can_bull","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 568,
+				"y": 871
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 5",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 1208,
+				"y": 871
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 6",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 648,
+				"y": 717
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 7",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 200,
+				"y": 539
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 8",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 216,
+				"y": 539
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 9",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 136,
+				"y": 395
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 10",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 10",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 280,
+				"y": 363
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 11",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 11",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 168,
+				"y": 283
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 12",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 12",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 248,
+				"y": 283
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 13",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 13",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 840,
+				"y": 507
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 14",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 14",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 616,
+				"y": 475
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 15",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 15",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 648,
+				"y": 475
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 16",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 16",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 424,
+				"y": 427
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 17",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 17",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 488,
+				"y": 379
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 18",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 18",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 984,
+				"y": 347
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 19",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 19",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 1096,
+				"y": 395
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 20",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 20",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 1160,
+				"y": 363
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 21",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 21",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 1016,
+				"y": 283
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 22",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 22",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 1096,
+				"y": 283
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Block 23",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 23",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 1381,
+				"y": 435
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Boss",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Boss",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 1181,
+				"y": 48
+			}
+		]
+	},
+	{
+		"name": "SS Tea Cup 30 - Treasure K",
+		"access_rules": ["ssteacup, ssteacup_bossunlock"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Treasure K",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["$can_climb, $can_open_treasure"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.30",
+				"x": 957,
+				"y": 71
+			}
+		]
+	}
+]

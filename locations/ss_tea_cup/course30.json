@@ -5,21 +5,80 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Boss",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_climb"],
-				"item_count": 1
+				"ref": "SS Tea Cup 30 - Boss/Boss"
 			},
 			{
-				"name": "Treasure K",
-				"chest_unopened_img": "images/checks/treasure_disabled.png",
-				"chest_opened_img": "images/checks/treasure.png",
-				"visibility_rules": ["treasure_checks"],
-				"access_rules": ["$can_climb, $can_open_treasure"],
-				"item_count": 1
-			}
-			
+				"ref": "SS Tea Cup 30 - Treasure K/Treasure K"
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 1/Block 1",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 2/Block 2",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 3/Block 3",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 4/Block 4",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 5/Block 5",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 6/Block 6",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 7/Block 7",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 8/Block 8",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 9/Block 9",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 10/Block 10",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 11/Block 11",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 12/Block 12",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 13/Block 13",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 14/Block 14",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 15/Block 15",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 16/Block 16",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 17/Block 17",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 18/Block 18",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 19/Block 19",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 20/Block 20",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 21/Block 21",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 22/Block 22",
+			},
+			{
+				"ref": "SS Tea Cup 30 - Block 23/Block 23",
+			},			
 		],
 		"map_locations": [
 			{

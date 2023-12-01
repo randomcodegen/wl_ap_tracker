@@ -46,5 +46,251 @@
         "location_size": 10,
         "location_border_thickness": 2,
         "img": "images/maps/Syrup Castle.png"
+    },
+    {
+        "name": "Course No.01",
+        "location_size": 15,
+        "location_border_thickness": 3,
+        "img": "images/maps/Course 01.png"
+    },
+    {
+        "name": "Course No.02",
+        "location_size": 20,
+        "location_border_thickness": 3,
+        "img": "images/maps/Course 02.png"
+    },
+    {
+        "name": "Course No.03",
+        "location_size": 15,
+        "location_border_thickness": 3,
+        "img": "images/maps/Course 03.png"
+    },
+    {
+        "name": "Course No.04",
+        "location_size": 13,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 04.png"
+    },
+    {
+        "name": "Course No.05",
+        "location_size": 15,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 05.png"
+    },
+    {
+        "name": "Course No.06",
+        "location_size": 13,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 06.png"
+    },
+    {
+        "name": "Course No.07",
+        "location_size": 15,
+        "location_border_thickness": 3,
+        "img": "images/maps/Course 07.png"
+    },
+    {
+        "name": "Course No.08",
+        "location_size": 13,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 08.png"
+    },
+    {
+        "name": "Course No.09",
+        "location_size": 13,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 09.png"
+    },
+    {
+        "name": "Course No.10",
+        "location_size": 13,
+        "location_border_thickness": 3,
+        "img": "images/maps/Course 10.png"
+    },
+    {
+        "name": "Course No.11",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 11.png"
+    },
+    {
+        "name": "Course No.12",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 12.png"
+    },
+    {
+        "name": "Course No.13",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 13.png"
+    },
+    {
+        "name": "Course No.14",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 14.png"
+    },
+    {
+        "name": "Course No.15",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 15.png"
+    },
+    {
+        "name": "Course No.16",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 16.png"
+    },
+    {
+        "name": "Course No.17",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 17.png"
+    },
+    {
+        "name": "Course No.18",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 18.png"
+    },
+    {
+        "name": "Course No.19",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 19.png"
+    },
+    {
+        "name": "Course No.20",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 20.png"
+    },
+    {
+        "name": "Course No.21",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 21.png"
+    },
+    {
+        "name": "Course No.22",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 22.png"
+    },
+    {
+        "name": "Course No.23",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 23.png"
+    },
+    {
+        "name": "Course No.24",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 24.png"
+    },
+    {
+        "name": "Course No.25",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 25.png"
+    },
+    {
+        "name": "Course No.26",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 26.png"
+    },
+    {
+        "name": "Course No.27",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 27.png"
+    },
+    {
+        "name": "Course No.28",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 28.png"
+    },
+    {
+        "name": "Course No.29",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 29.png"
+    },
+    {
+        "name": "Course No.30",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 30.png"
+    },
+    {
+        "name": "Course No.31",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 31.png"
+    },
+    {
+        "name": "Course No.31 (drained)",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 31 (drained).png"
+    },
+    {
+        "name": "Course No.32",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 32.png"
+    },
+    {
+        "name": "Course No.33",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 33.png"
+    },
+    {
+        "name": "Course No.34",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 34.png"
+    },
+    {
+        "name": "Course No.35",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 35.png"
+    },
+    {
+        "name": "Course No.36",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 36.png"
+    },
+    {
+        "name": "Course No.37",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 37.png"
+    },
+    {
+        "name": "Course No.38",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 38.png"
+    },
+    {
+        "name": "Course No.39",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 39.png"
+    },
+    {
+        "name": "Course No.40",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/Course 40.png"
     }
 ]

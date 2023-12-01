@@ -4,7 +4,6 @@
         "type": "toggle",
         "img": "images/items/garlic.png",
         "disabled_img": "images/items/genie.png",
-        "disabled_img_mods": "none",
         "codes": "goal"
     },
     {
@@ -27,6 +26,20 @@
         "img": "images/items/boss_lock.png",
         "disabled_img": "images/items/boss_lock_no.png",
         "codes": "boss_unlocks"
+    },
+	{
+        "name": "Blocksanity",
+        "type": "toggle",
+        "img": "images/checks/block.png",
+        "disabled_img": "images/checks/block_disabled.png",
+        "codes": "blocksanity"
+    },
+	{
+        "name": "Auto Tab Switching",
+        "type": "toggle",
+        "img": "images/items/tab_switch.png",
+        "disabled_img": "images/items/tab_switch_no.png",
+        "codes": "tab_switch"
     },
     {
         "name": "Bosses Required",
@@ -53,99 +66,99 @@
 	{
         "name": "Rice Beach",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
         "codes": "ricebeach"
     },
 	{
         "name": "Mt. Teapot",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
         "codes": "mtteapot"
     },
 	{
         "name": "Stove Canyon",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
         "codes": "stovecanyon"
     },
 	{
         "name": "Parsley Woods",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
         "codes": "parsleywoods"
     },
 	{
         "name": "SS Teacup",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
         "codes": "ssteacup"
     },
 	{
         "name": "Sherbet Land",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
         "codes": "sherbetland"
     },
 	{
         "name": "Syrup Castle",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/world_lock.png",
+        "disabled_img": "images/items/world_lock_no.png",
         "codes": "syrupcastle"
     },
 	{
         "name": "Rice Beach Boss Unlock",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock_no.png",
         "codes": "ricebeach_bossunlock"
     },
 	{
         "name": "Mt. Teapot Boss Unlock",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock_no.png",
         "codes": "mtteapot_bossunlock"
     },
 	{
         "name": "Stove Canyon Boss Unlock",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock_no.png",
         "codes": "stovecanyon_bossunlock"
     },
 	{
         "name": "Parsley Woods Boss Unlock",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock_no.png",
         "codes": "parsleywoods_bossunlock"
     },
 	{
         "name": "SS Teacup Boss Unlock",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock_no.png",
         "codes": "ssteacup_bossunlock"
     },
 	{
         "name": "Sherbet Land Boss Unlock",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock_no.png",
         "codes": "sherbetland_bossunlock"
     },
 	{
         "name": "Syrup Castle Boss Unlock",
         "type": "toggle",
-        "img": "",
-        "disabled_img": "",
+        "img": "images/items/boss_lock.png",
+        "disabled_img": "images/items/boss_lock.png",
         "codes": "syrupcastle_bossunlock"
     },
 	{
@@ -168,5 +181,12 @@
         "img": "",
         "disabled_img": "",
         "codes": "mt_boss_tile_unlocked"
+	},
+	{
+		"name": "Current Level",
+        "type": "progressive",
+        "img": "",
+        "disabled_img": "",
+        "codes": "cur_level_id"
 	}
 ]

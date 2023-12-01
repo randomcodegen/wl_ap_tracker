@@ -1,0 +1,275 @@
+[
+	{
+		"name": "Stove Canyon 20 - Block 1",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 168,
+				"y": 56
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 2",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 536,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 3",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 616,
+				"y": 56
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 4",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 808,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 5",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 1032,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 6",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb,$can_hit_groundblock","$can_jet,$can_hit_groundblock"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 112,
+				"y": 172
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 7",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb,$can_hit_groundblock","$can_jet,$can_hit_groundblock"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 224,
+				"y": 172
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 8",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 352,
+				"y": 204
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 9",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 416,
+				"y": 204
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 10",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 10",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 912,
+				"y": 236
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Block 11",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 11",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 792,
+				"y": 367
+			}
+		]
+	},	
+	{
+		"name": "Stove Canyon 20 - Normal Exit",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 952,
+				"y": 655
+			}
+		]
+	},
+	{
+		"name": "Stove Canyon 20 - Treasure G",
+		"access_rules": ["stovecanyon"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Treasure G",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["$can_climb, $can_open_treasure"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.20",
+				"x": 1003,
+				"y": 366
+			}
+		]
+	}
+]

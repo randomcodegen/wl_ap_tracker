@@ -1,0 +1,202 @@
+[
+	{
+		"name": "Parsley Woods 36 - Block 1",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 232,
+				"y": 187
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Block 2",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 552,
+				"y": 187
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Block 3",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 1208,
+				"y": 219
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Block 4",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 152,
+				"y": 395
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Block 5",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 376,
+				"y": 395
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Block 6",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 1000,
+				"y": 395
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Block 7",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 1016,
+				"y": 395
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Block 8",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 1032,
+				"y": 395
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Block 9",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 1320,
+				"y": 556
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 36 - Boss",
+		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Boss",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.36",
+				"x": 1337,
+				"y": 41
+			}
+		]
+	}
+]

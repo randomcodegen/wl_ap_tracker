@@ -5,12 +5,20 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Normal Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"item_count": 1
-			}
-			
+				"ref": "Parsley Woods 32 - Normal Exit/Normal Exit"
+			},
+			{
+				"ref": "Parsley Woods 32 - Block 1/Block 1",
+			},
+			{
+				"ref": "Parsley Woods 32 - Block 2/Block 2",
+			},
+			{
+				"ref": "Parsley Woods 32 - Block 3/Block 3",
+			},
+			{
+				"ref": "Parsley Woods 32 - Block 4/Block 4",
+			},
 		],
 		"map_locations": [
 			{

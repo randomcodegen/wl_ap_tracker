@@ -1,0 +1,317 @@
+[
+	{
+		"name": "Parsley Woods 31 - Block 1 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 216,
+				"y": 362
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 2 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_elevated_groundblock"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 456,
+				"y": 490
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 3 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_hit_elevated_groundblock"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 472,
+				"y": 490
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 4 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_jet","$can_highjump"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 696,
+				"y": 330
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 5 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 808,
+				"y": 314
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 6 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 1032,
+				"y": 442
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 7 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb,$can_dragon","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 1128,
+				"y": 362
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 8 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb,$can_dragon","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 1720,
+				"y": 362
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 9 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 1752,
+				"y": 474
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 10 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 10 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 96,
+				"y": 750
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 11 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 11 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 208,
+				"y": 622
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 12 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 12 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 784,
+				"y": 750
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Block 13 (drained)",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 13 (drained)",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 1008,
+				"y": 590
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Normal Exit",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 1728,
+				"y": 653
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 31 - Treasure L",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Treasure L",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["pw_drained, $can_open_treasure, $can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.31 (drained)",
+				"x": 1552,
+				"y": 198
+			}
+		]
+	}
+]

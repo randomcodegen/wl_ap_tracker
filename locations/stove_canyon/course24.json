@@ -5,20 +5,35 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Normal Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin, $can_climb"],
-				"item_count": 1
+				"ref": "Stove Canyon 24 - Normal Exit/Normal Exit"
 			},
 			{
-				"name": "Treasure H",
-				"chest_unopened_img": "images/checks/treasure_disabled.png",
-				"chest_opened_img": "images/checks/treasure.png",
-				"visibility_rules": ["treasure_checks"],
-				"access_rules": ["$can_climb, $can_open_treasure"],
-				"item_count": 1
-			}
+				"ref": "Stove Canyon 24 - Treasure H/Treasure H"
+			},
+			{
+				"ref": "Stove Canyon 24 - Block 1/Block 1",
+			},
+			{
+				"ref": "Stove Canyon 24 - Block 2/Block 2",
+			},
+			{
+				"ref": "Stove Canyon 24 - Block 3/Block 3",
+			},
+			{
+				"ref": "Stove Canyon 24 - Block 4/Block 4",
+			},
+			{
+				"ref": "Stove Canyon 24 - Block 5/Block 5",
+			},
+			{
+				"ref": "Stove Canyon 24 - Block 6/Block 6",
+			},
+			{
+				"ref": "Stove Canyon 24 - Block 7/Block 7",
+			},
+			{
+				"ref": "Stove Canyon 24 - Block 8/Block 8",
+			},
 		],
 		"map_locations": [
 			{

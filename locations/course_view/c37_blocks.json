@@ -1,0 +1,466 @@
+[
+	{
+		"name": "Syrup Castle 37 - Block 1",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 472,
+				"y": 338
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 2",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 488,
+				"y": 338
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 3",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 504,
+				"y": 338
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 4",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1736,
+				"y": 338
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 5",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1752,
+				"y": 338
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 6",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1768,
+				"y": 338
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 7",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 504,
+				"y": 498
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 8",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 520,
+				"y": 498
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 9",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 616,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 10",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 10",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 632,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 11",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 11",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 648,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 12",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 12",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 728,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 13",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 13",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 744,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 14",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 14",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 760,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 15",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 15",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 840,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 16",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 16",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 856,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 17",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 17",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 872,
+				"y": 530
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 18",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 18",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1144,
+				"y": 514
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 19",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 19",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1176,
+				"y": 514
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 20",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 20",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_grow"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1256,
+				"y": 546
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Block 21",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 21",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1480,
+				"y": 546
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Normal Exit",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1784,
+				"y": 708
+			}
+		]
+	},
+	{
+		"name": "Syrup Castle 37 - Treasure N",
+		"access_rules": ["syrupcastle"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Treasure N",
+				"chest_unopened_img": "images/checks/treasure_disabled.png",
+				"chest_opened_img": "images/checks/treasure.png",
+				"visibility_rules": ["treasure_checks"],
+				"access_rules": ["$can_open_treasure"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.37",
+				"x": 1258,
+				"y": 675
+			}
+		]
+	}
+]

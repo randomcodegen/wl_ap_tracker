@@ -53,7 +53,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "10,10",
+                "item_margin": "4,4",
                 "rows": [
                     [
                         "goal",
@@ -63,12 +63,46 @@
                     ],
                     [
                         "boss_tokens",
-						"bosses_required"
+						"bosses_required",
+						"blocksanity"
                     ],
                     [
 						"garlic_cloves",
-                        "garlic_cloves_required"
+                        "garlic_cloves_required",
+						"tab_switch"
                     ]
+                ]
+            }
+        ]
+    },
+	"unlocks": {
+        "type": "dock",
+        "dock": "bottom",
+        "h_alignment": "center",
+        "v_alignment": "bottom",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "10,10",
+                "rows": [
+                    [
+                        "ricebeach",
+						"mtteapot",
+						"stovecanyon",
+						"parsleywoods",
+						"ssteacup",
+						"sherbetland",
+						"syrupcastle"
+                    ],
+                    [
+                        "ricebeach_bossunlock",
+						"mtteapot_bossunlock",
+						"stovecanyon_bossunlock",
+						"parsleywoods_bossunlock",
+						"ssteacup_bossunlock",
+						"sherbetland_bossunlock",
+						"syrupcastle_bossunlock"
+                    ],
                 ]
             }
         ]
@@ -120,6 +154,21 @@
                         "content": {
                             "type": "layout",
                             "key": "settings"
+                        }
+                    },
+                ]
+            },
+			{
+                "type": "dock",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Unlocks",
+                        "dock": "bottom",
+                        "h_alignment": "center",
+                        "content": {
+                            "type": "layout",
+                            "key": "unlocks"
                         }
                     },
                 ]

@@ -5,28 +5,59 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Normal Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin"],
-				"item_count": 1
+				"ref": "Rice Beach 03 - Normal Exit/Normal Exit"
 			},
 			{
-				"name": "Secret Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin, $can_highjump","$can_create_coin, rb_flooded"],
-				"item_count": 1
+				"ref": "Rice Beach 03 - Secret Exit/Secret Exit"
 			},
 			{
-				"name": "Treasure A",
-				"chest_unopened_img": "images/checks/treasure_disabled.png",
-				"chest_opened_img": "images/checks/treasure.png",
-				"visibility_rules": ["treasure_checks"],
-				"access_rules": ["$can_jet, rb_flooded", "$can_dragon, $can_duck, rb_flooded"],
-				"item_count": 1
-			}
-
+				"ref": "Rice Beach 03 - Treasure A/Treasure A"
+			},
+			{
+				"ref": "Rice Beach 03 - Block 1/Block 1",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 2/Block 2",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 3/Block 3",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 4/Block 4",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 5/Block 5",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 6/Block 6",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 7/Block 7",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 8/Block 8",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 9/Block 9",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 10/Block 10",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 11/Block 11",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 12/Block 12",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 13/Block 13",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 14/Block 14",
+			},
+			{
+				"ref": "Rice Beach 03 - Block 15/Block 15",
+			},
 		],
 		"map_locations": [
 			{

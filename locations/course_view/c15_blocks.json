@@ -1,0 +1,317 @@
+[
+	{
+		"name": "Sherbet Land 15 - Block 1",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 667,
+				"y": 40
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 2",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 683,
+				"y": 40
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 3",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb,$can_dash","$can_climb,$can_dragon"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1131,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 4",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb,$can_dash","$can_climb,$can_dragon","$can_jet"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1147,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 5",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 907,
+				"y": 200
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 6",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1163,
+				"y": 328
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 7",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 7",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 834,
+				"y": 869
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 8",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 8",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 850,
+				"y": 885
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 9",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 9",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb,$can_hit_groundblock"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 866,
+				"y": 901
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 10",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 10",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1346,
+				"y": 901
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 11",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 11",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1554,
+				"y": 901
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 12",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 12",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1196,
+				"y": 523
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Block 13",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 13",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"access_rules": ["$can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1532,
+				"y": 523
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Normal Exit",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin, $can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1138,
+				"y": 915
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land 15 - Secret Exit",
+		"access_rules": ["sherbetland"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Secret Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"access_rules": ["$can_create_coin, $can_climb"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.15",
+				"x": 1340,
+				"y": 553
+			}
+		]
+	}
+]

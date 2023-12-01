@@ -54,3 +54,15 @@ end
 function can_open_treasure()
     return can_jet() or can_dragon() or can_dash()
 end
+
+function can_hit_groundblock()
+    return can_jet() or (can_dragon() and can_duck()) or can_dash()
+end
+
+function can_hit_elevated_groundblock()
+	return can_jet() or can_dragon() or can_dash()
+end
+
+function can_grow()
+	return can_garlic() or can_bull() or can_dragon() or can_jet()
+end

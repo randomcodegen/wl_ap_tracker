@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Parsley Woods 32 - Block 1",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.32",
+				"x": 232,
+				"y": 40
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 32 - Block 2",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.32",
+				"x": 256,
+				"y": 203
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 32 - Block 3",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.32",
+				"x": 432,
+				"y": 171
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 32 - Block 4",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.32",
+				"x": 1744,
+				"y": 203
+			}
+		]
+	},
+	{
+		"name": "Parsley Woods 32 - Normal Exit",
+		"access_rules": ["parsleywoods"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Normal Exit",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.32",
+				"x": 1669,
+				"y": 403
+			}
+		]
+	}
+]

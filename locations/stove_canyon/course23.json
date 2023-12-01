@@ -5,19 +5,35 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Normal Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin"],
-				"item_count": 1
+				"ref": "Stove Canyon 23 - Normal Exit/Normal Exit"
 			},
 			{
-				"name": "Secret Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin"],
-				"item_count": 1
-			}
+				"ref": "Stove Canyon 23 - Secret Exit/Secret Exit"
+			},
+			{
+				"ref": "Stove Canyon 23 - Block 1/Block 1",
+			},
+			{
+				"ref": "Stove Canyon 23 - Block 2/Block 2",
+			},
+			{
+				"ref": "Stove Canyon 23 - Block 3/Block 3",
+			},
+			{
+				"ref": "Stove Canyon 23 - Block 4/Block 4",
+			},
+			{
+				"ref": "Stove Canyon 23 - Block 5/Block 5",
+			},
+			{
+				"ref": "Stove Canyon 23 - Block 6/Block 6",
+			},
+			{
+				"ref": "Stove Canyon 23 - Block 7/Block 7",
+			},
+			{
+				"ref": "Stove Canyon 23 - Block 8/Block 8",
+			},
 		],
 		"map_locations": [
 			{

@@ -1,10 +1,6 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
-
-LEVEL_UNLOCKS = {}
-
-
-
+ScriptHost:LoadScript("scripts/autotracking/tab_mapping.lua")
 CUR_INDEX = -1
 SLOT_DATA = nil
 
@@ -47,6 +43,9 @@ function onClear(slot_data)
     if SLOT_DATA == nil then
         return
     end
+	
+	PLAYER_ID = Archipelago.PlayerNumber or -1
+	TEAM_NUMBER = Archipelago.TeamNumber or 0
 
     if slot_data['treasure_checks'] then
         local treasure_checks = Tracker:FindObjectForCode("treasure_checks")
@@ -63,18 +62,30 @@ function onClear(slot_data)
         boss_unlocks.Active = (slot_data['boss_unlocks'] ~= 0)
     end
 	
+	if slot_data['blocksanity'] then
+        local blocksanity = Tracker:FindObjectForCode("blocksanity")
+        blocksanity.Active = (slot_data['blocksanity'] ~= 0)
+    end
+	
 	if slot_data['goal']==0 then
-		Tracker:FindObjectForCode("goal").CurrentStage = 0
+		Tracker:FindObjectForCode("goal").Active = 0
 		Tracker:FindObjectForCode("bosses_required").AcquiredCount = tonumber(slot_data["bosses_required"])
 	end
 	
 	if slot_data['goal']==1 then
 		required_cloves=tonumber(slot_data["number_of_garlic_cloves"])*(tonumber(slot_data["percentage_of_garlic_cloves"])/100)
-		Tracker:FindObjectForCode("goal").CurrentStage = 1
-		Tracker:FindObjectForCode("required_garlic_cloves").AcquiredCount = required_cloves
+		Tracker:FindObjectForCode("goal").Active = 1
+		Tracker:FindObjectForCode("garlic_cloves_required").AcquiredCount = required_cloves
 	end
 	
-
+	if Archipelago.PlayerNumber>-1 then
+		EVENT_ID="warioland_curlevelid_"..TEAM_NUMBER.."_"..PLAYER_ID
+		Archipelago:SetNotify({EVENT_ID})
+		Archipelago:Get({EVENT_ID})
+	end
+	
+	--Default tab switching to on
+	Tracker:FindObjectForCode("tab_switch").Active = 1
 end
 
 function onItem(index, item_id, item_name, player_number)
@@ -124,7 +135,6 @@ function onLocation(location_id, location_name)
     end
 	--handle specific cases for logic
 	if loc_name=="Rice Beach 05" and loc_type=="Boss" then
-		print("Update rb_flooded item")
 		local obj = Tracker:FindObjectForCode("rb_flooded")
 		obj.Active = true
 	end
@@ -138,7 +148,32 @@ function onLocation(location_id, location_name)
 	end
 end
 
+function onNotify(key, value, old_value)
+	updateEvents(value)
+end
+
+function onNotifyLaunch(key, value)
+	updateEvents(value)
+end
+
+function updateEvents(value)
+	if value ~= nil then
+		local tabswitch = Tracker:FindObjectForCode("tab_switch")
+		Tracker:FindObjectForCode("cur_level_id").CurrentStage = value
+		if tabswitch.Active then
+			if TAB_MAPPING[value] then
+				CURRENT_ROOM = TAB_MAPPING[value]
+				--print(string.format("Updating ID %x to Tab %s",value,CURRENT_ROOM))
+			else
+				CURRENT_ROOM = 0x30
+			end
+        Tracker:UiHint("ActivateTab", CURRENT_ROOM)
+		end
+	end
+end
 
 Archipelago:AddClearHandler("clear handler", onClear)
 Archipelago:AddItemHandler("item handler", onItem)
 Archipelago:AddLocationHandler("location handler", onLocation)
+Archipelago:AddSetReplyHandler("notify handler", onNotify)
+Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)

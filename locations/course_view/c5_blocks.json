@@ -1,0 +1,142 @@
+[
+	{
+		"name": "Rice Beach 05 - Block 1",
+		"access_rules": ["ricebeach, ricebeach_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 1",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.05",
+				"x": 785,
+				"y": 71
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 05 - Block 2",
+		"access_rules": ["ricebeach, ricebeach_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 2",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.05",
+				"x": 828,
+				"y": 353
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 05 - Block 3",
+		"access_rules": ["ricebeach, ricebeach_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 3",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.05",
+				"x": 1148,
+				"y": 369
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 05 - Block 4",
+		"access_rules": ["ricebeach, ricebeach_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 4",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.05",
+				"x": 1164,
+				"y": 369
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 05 - Block 5",
+		"access_rules": ["ricebeach, ricebeach_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 5",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.05",
+				"x": 1180,
+				"y": 369
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 05 - Block 6",
+		"access_rules": ["ricebeach, ricebeach_bossunlock"],
+		"visibility_rules": ["blocksanity"],
+		"sections": [
+			{
+				"name": "Block 6",
+				"chest_unopened_img": "images/checks/block.png",
+				"chest_opened_img": "images/checks/block_hit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.05",
+				"x": 1226,
+				"y": 386
+			}
+		]
+	},
+	{
+		"name": "Rice Beach 05 - Boss",
+		"access_rules": ["ricebeach, ricebeach_bossunlock"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Boss",
+				"chest_unopened_img": "images/checks/exit_disabled.png",
+				"chest_opened_img": "images/checks/exit.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Course No.05",
+				"x": 1430,
+				"y": 209
+			}
+		]
+	}
+]
