@@ -171,7 +171,7 @@
 				"name": "Block 9",
 				"chest_unopened_img": "images/checks/block.png",
 				"chest_opened_img": "images/checks/block_hit.png",
-				"access_rules": ["$can_bull"],
+				"access_rules": ["$can_bull,$can_duck"],
 				"item_count": 1
 			}
 		],
@@ -192,7 +192,7 @@
 				"name": "Block 10",
 				"chest_unopened_img": "images/checks/block.png",
 				"chest_opened_img": "images/checks/block_hit.png",
-				"access_rules": ["$can_bull"],
+				"access_rules": ["$can_bull,$can_duck"],
 				"item_count": 1
 			}
 		],
@@ -213,7 +213,7 @@
 				"name": "Block 11",
 				"chest_unopened_img": "images/checks/block.png",
 				"chest_opened_img": "images/checks/block_hit.png",
-				"access_rules": ["$can_bull,$can_dash"],
+				"access_rules": ["$can_bull,$can_dash,$can_duck"],
 				"item_count": 1
 			}
 		],
