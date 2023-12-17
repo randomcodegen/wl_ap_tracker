@@ -277,11 +277,7 @@
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Normal Exit",
-				"chest_unopened_img": "images/checks/exit_disabled.png",
-				"chest_opened_img": "images/checks/exit.png",
-				"access_rules": ["$can_create_coin"],
-				"item_count": 1
+				"ref": "Parsley Woods 31 - Normal Exit/Normal Exit"
 			}
 		],
 		"map_locations": [

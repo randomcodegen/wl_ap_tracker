@@ -88,19 +88,19 @@
                     [
                         "ricebeach",
 						"mtteapot",
-						"stovecanyon",
-						"parsleywoods",
-						"ssteacup",
 						"sherbetland",
+						"stovecanyon",
+						"ssteacup",
+						"parsleywoods",
 						"syrupcastle"
                     ],
                     [
                         "ricebeach_bossunlock",
 						"mtteapot_bossunlock",
-						"stovecanyon_bossunlock",
-						"parsleywoods_bossunlock",
-						"ssteacup_bossunlock",
 						"sherbetland_bossunlock",
+						"stovecanyon_bossunlock",
+						"ssteacup_bossunlock",
+						"parsleywoods_bossunlock",
 						"syrupcastle_bossunlock"
                     ],
                 ]
