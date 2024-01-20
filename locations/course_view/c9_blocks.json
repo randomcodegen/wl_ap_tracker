@@ -339,7 +339,7 @@
 				"name": "Treasure B",
 				"chest_unopened_img": "images/checks/treasure_disabled.png",
 				"chest_opened_img": "images/checks/treasure.png",
-				"access_rules": ["$can_open_treasure, $can_jet", "$can_open_treasure, $can_climb"],
+				"access_rules": ["$can_dash, $can_jet", "$can_dash, $can_climb", "$can_jet", "$can_dragon, $can_duck, $can_jet", "$can_dragon, $can_duck, $can_climb"],
 				"item_count": 1
 			}
 		],
