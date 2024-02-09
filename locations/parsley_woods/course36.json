@@ -2,7 +2,6 @@
 	{
 		"name": "Parsley Woods 36",
 		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Parsley Woods 36 - Boss/Boss"

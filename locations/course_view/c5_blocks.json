@@ -122,7 +122,6 @@
 	{
 		"name": "Rice Beach 05 - Boss",
 		"access_rules": ["ricebeach, ricebeach_bossunlock"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Boss",

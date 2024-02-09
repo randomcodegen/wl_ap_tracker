@@ -366,7 +366,6 @@
 	{
 		"name": "Mt. Teapot 11 - Normal Exit",
 		"access_rules": ["mtteapot"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -387,7 +386,6 @@
 	{
 		"name": "Mt. Teapot 11 - Treasure C",
 		"access_rules": ["mtteapot"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure C",

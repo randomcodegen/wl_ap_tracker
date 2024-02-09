@@ -188,7 +188,6 @@
 	{
 		"name": "Syrup Castle 38 - Normal Exit",
 		"access_rules": ["syrupcastle"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",

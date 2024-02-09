@@ -2,7 +2,6 @@
 	{
 		"name": "Mt. Teapot 13",
 		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Mt. Teapot 13 - Boss/Boss"

@@ -228,7 +228,6 @@
 	{
 		"name": "Syrup Castle 39 - Normal Exit",
 		"access_rules": ["syrupcastle"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -248,7 +247,6 @@
 	{
 		"name": "Syrup Castle 39 - Treasure O",
 		"access_rules": ["syrupcastle"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure O",

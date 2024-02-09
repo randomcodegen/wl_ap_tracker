@@ -162,6 +162,7 @@ function updateEvents(value)
 		local tabswitch = Tracker:FindObjectForCode("tab_switch")
 		Tracker:FindObjectForCode("cur_level_id").CurrentStage = value
 		if tabswitch.Active then
+			print(string.format("Updated value to %x", value))
 			if TAB_MAPPING[value] then
 				CURRENT_ROOM = TAB_MAPPING[value]
 				--print(string.format("Updating ID %x to Tab %s",value,CURRENT_ROOM))

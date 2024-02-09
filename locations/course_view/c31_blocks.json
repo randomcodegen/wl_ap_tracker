@@ -282,7 +282,6 @@
 	{
 		"name": "Parsley Woods 31 - Normal Exit",
 		"access_rules": ["parsleywoods"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",

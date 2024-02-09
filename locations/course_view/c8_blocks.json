@@ -443,7 +443,6 @@
 	{
 		"name": "Mt. Teapot 08 - Normal Exit",
 		"access_rules": ["mtteapot"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -464,7 +463,6 @@
 	{
 		"name": "Mt. Teapot 08 - Secret Exit",
 		"access_rules": ["mtteapot"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Secret Exit",

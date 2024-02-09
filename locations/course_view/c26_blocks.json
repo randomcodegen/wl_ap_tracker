@@ -226,7 +226,6 @@
 	{
 		"name": "SS Tea Cup 26 - Normal Exit",
 		"access_rules": ["ssteacup"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -247,7 +246,6 @@
 	{
 		"name": "SS Tea Cup 26 - Treasure I",
 		"access_rules": ["ssteacup"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure I",

@@ -272,9 +272,8 @@
 		]
 	},
 	{
-		"name": "Parsley Woods 31 - Normal Exit",
+		"name": "Parsley Woods 31 - Normal Exit (drained)",
 		"access_rules": ["parsleywoods"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Parsley Woods 31 - Normal Exit/Normal Exit"
@@ -291,7 +290,6 @@
 	{
 		"name": "Parsley Woods 31 - Treasure L",
 		"access_rules": ["parsleywoods"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure L",

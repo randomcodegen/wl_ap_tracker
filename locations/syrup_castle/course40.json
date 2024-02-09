@@ -2,7 +2,6 @@
 	{
 		"name": "Syrup Castle 40",
 		"access_rules": ["syrupcastle"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Syrup Castle 40 - Final Boss/Final Boss"

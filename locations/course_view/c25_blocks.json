@@ -142,7 +142,6 @@
 	{
 		"name": "Stove Canyon 25 - Boss",
 		"access_rules": ["stovecanyon, stovecanyon_bossunlock"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Boss",

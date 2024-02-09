@@ -2,7 +2,6 @@
 	{
 		"name": "Syrup Castle 37",
 		"access_rules": ["syrupcastle"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Syrup Castle 37 - Normal Exit/Normal Exit"

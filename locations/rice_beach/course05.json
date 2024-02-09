@@ -2,7 +2,6 @@
 	{
 		"name": "Rice Beach 05",
 		"access_rules": ["ricebeach, ricebeach_bossunlock"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Rice Beach 05 - Boss/Boss"

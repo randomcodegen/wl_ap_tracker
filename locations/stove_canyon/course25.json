@@ -2,7 +2,6 @@
 	{
 		"name": "Stove Canyon 25",
 		"access_rules": ["stovecanyon, stovecanyon_bossunlock"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Stove Canyon 25 - Boss/Boss"

@@ -367,7 +367,6 @@
 	{
 		"name": "Rice Beach 01 - Normal Exit",
 		"access_rules": ["ricebeach"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",

@@ -296,7 +296,6 @@
 	{
 		"name": "Sherbet Land 19 - Boss",
 		"access_rules": ["sherbetland, sherbetland_bossunlock"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Boss",

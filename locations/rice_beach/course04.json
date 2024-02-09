@@ -2,7 +2,6 @@
 	{
 		"name": "Rice Beach 04",
 		"access_rules": ["ricebeach"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Rice Beach 04 - Normal Exit/Normal Exit"

@@ -182,7 +182,6 @@
 	{
 		"name": "Parsley Woods 36 - Boss",
 		"access_rules": ["parsleywoods, parsleywoods_bossunlock"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Boss",

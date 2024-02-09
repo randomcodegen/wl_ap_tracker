@@ -187,7 +187,6 @@
 	{
 		"name": "Sherbet Land 18 - Normal Exit",
 		"access_rules": ["sherbetland"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -208,7 +207,6 @@
 	{
 		"name": "Sherbet Land 18 - Treasure F",
 		"access_rules": ["sherbetland"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure F",

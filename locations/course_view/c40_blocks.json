@@ -365,7 +365,6 @@
 	{
 		"name": "Syrup Castle 40 - Final Boss",
 		"access_rules": ["syrupcastle,$GenieCost"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Final Boss",

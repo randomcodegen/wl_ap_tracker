@@ -232,7 +232,6 @@
 	{
 		"name": "Stove Canyon 20 - Normal Exit",
 		"access_rules": ["stovecanyon"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -253,7 +252,6 @@
 	{
 		"name": "Stove Canyon 20 - Treasure G",
 		"access_rules": ["stovecanyon"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure G",

@@ -2,7 +2,6 @@
 	{
 		"name": "Sherbet Land 17",
 		"access_rules": ["sherbetland"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Sherbet Land 17 - Normal Exit/Normal Exit"

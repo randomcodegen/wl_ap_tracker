@@ -2,7 +2,6 @@
 	{
 		"name": "Mt. Teapot 11",
 		"access_rules": ["mtteapot"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Mt. Teapot 11 - Normal Exit/Normal Exit"

@@ -2,7 +2,6 @@
 	{
 		"name": "Stove Canyon 20",
 		"access_rules": ["stovecanyon"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "Stove Canyon 20 - Normal Exit/Normal Exit"

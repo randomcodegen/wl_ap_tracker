@@ -144,7 +144,6 @@
 	{
 		"name": "Stove Canyon 21 - Normal Exit",
 		"access_rules": ["stovecanyon"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",

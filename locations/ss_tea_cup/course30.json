@@ -2,7 +2,6 @@
 	{
 		"name": "SS Tea Cup 30",
 		"access_rules": ["ssteacup, ssteacup_bossunlock"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"ref": "SS Tea Cup 30 - Boss/Boss"

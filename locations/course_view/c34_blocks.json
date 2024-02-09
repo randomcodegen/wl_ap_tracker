@@ -252,7 +252,6 @@
 	{
 		"name": "Parsley Woods 34 - Normal Exit",
 		"access_rules": ["parsleywoods"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -273,7 +272,6 @@
 	{
 		"name": "Parsley Woods 34 - Treasure M",
 		"access_rules": ["parsleywoods"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure M",

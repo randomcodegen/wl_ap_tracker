@@ -202,7 +202,6 @@
 	{
 		"name": "SS Tea Cup 28 - Normal Exit",
 		"access_rules": ["ssteacup"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",

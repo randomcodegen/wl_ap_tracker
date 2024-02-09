@@ -169,7 +169,6 @@
 	{
 		"name": "Stove Canyon 24 - Normal Exit",
 		"access_rules": ["stovecanyon"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -190,7 +189,6 @@
 	{
 		"name": "Stove Canyon 24 - Treasure H",
 		"access_rules": ["stovecanyon"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure H",

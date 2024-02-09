@@ -435,7 +435,6 @@
 	{
 		"name": "Mt. Teapot 13 - Boss",
 		"access_rules": ["mtteapot, mtteapot_bossunlock, mt_boss_tile_unlocked"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Boss",

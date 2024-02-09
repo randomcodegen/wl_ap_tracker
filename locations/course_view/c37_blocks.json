@@ -423,7 +423,6 @@
 	{
 		"name": "Syrup Castle 37 - Normal Exit",
 		"access_rules": ["syrupcastle"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -444,7 +443,6 @@
 	{
 		"name": "Syrup Castle 37 - Treasure N",
 		"access_rules": ["syrupcastle"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure N",

@@ -312,7 +312,6 @@
 	{
 		"name": "Mt. Teapot 09 - Normal Exit",
 		"access_rules": ["mtteapot"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",

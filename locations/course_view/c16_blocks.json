@@ -164,7 +164,6 @@
 	{
 		"name": "Sherbet Land 16 - Normal Exit",
 		"access_rules": ["sherbetland"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -185,7 +184,6 @@
 	{
 		"name": "Sherbet Land 16 - Secret Exit",
 		"access_rules": ["sherbetland"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Secret Exit",
@@ -206,7 +204,6 @@
 	{
 		"name": "Sherbet Land 16 - Treasure D",
 		"access_rules": ["sherbetland"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Treasure D",

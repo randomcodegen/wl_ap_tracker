@@ -163,7 +163,6 @@
 	{
 		"name": "Stove Canyon 23 - Normal Exit",
 		"access_rules": ["stovecanyon"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Normal Exit",
@@ -184,7 +183,6 @@
 	{
 		"name": "Stove Canyon 23 - Secret Exit",
 		"access_rules": ["stovecanyon"],
-		"visibility_rules": [],
 		"sections": [
 			{
 				"name": "Secret Exit",
