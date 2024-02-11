@@ -296,7 +296,7 @@
 				"chest_unopened_img": "images/checks/treasure_disabled.png",
 				"chest_opened_img": "images/checks/treasure.png",
 				"visibility_rules": ["treasure_checks"],
-				"access_rules": ["pw_drained, $can_open_treasure, $can_climb"],
+				"access_rules": ["pw_drained, $can_climb, $can_jet", "pw_drained, $can_climb, $can_dash", "pw_drained, $can_climb, $can_dragon, $can_duck"],
 				"item_count": 1
 			}
 		],
