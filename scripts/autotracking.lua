@@ -73,7 +73,7 @@ function onClear(slot_data)
 	end
 	
 	if slot_data['goal']==1 then
-		required_cloves=tonumber(slot_data["number_of_garlic_cloves"])*(tonumber(slot_data["percentage_of_garlic_cloves"])/100)
+		required_cloves=math.ceil(tonumber(slot_data["number_of_garlic_cloves"])*(tonumber(slot_data["percentage_of_garlic_cloves"])/100))
 		Tracker:FindObjectForCode("goal").Active = 1
 		Tracker:FindObjectForCode("garlic_cloves_required").AcquiredCount = required_cloves
 	end

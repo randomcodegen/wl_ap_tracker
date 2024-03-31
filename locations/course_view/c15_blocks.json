@@ -71,7 +71,7 @@
 				"name": "Block 4",
 				"chest_unopened_img": "images/checks/block.png",
 				"chest_opened_img": "images/checks/block_hit.png",
-				"access_rules": ["$can_climb,$can_dash","$can_climb,$can_dragon","$can_jet"],
+				"access_rules": ["$can_climb,$can_dash","$can_climb,$can_dragon","$can_climb,$can_jet"],
 				"item_count": 1
 			}
 		],
