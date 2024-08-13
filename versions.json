@@ -2,8 +2,8 @@
 	"versions": [
 		{
 			"package_version": "1.1.4",
-			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.3/wl_ap_tracker_1.1.3.zip",
-			"sha256": "deae1e592450024f3269e24faab4056a5d885a392768cd41bb8dddb4185d29f2",
+			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.4/wl_ap_tracker_1.1.4.zip",
+			"sha256": "F49784B931DF31E0A35E985C4FAC89A038EACED13DC251AA11024281F9AA7577",
 			"changelog": ["Added automatic Updates, Fixed Autotracking for Garlic Cloves"]
 		}
 	]
