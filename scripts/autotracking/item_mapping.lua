@@ -1,5 +1,5 @@
 ITEM_MAPPING = {
-    [0xA44000] = {"garlic_cloves", "consumable"},
+    [0xA42800] = {"garlic_cloves", "consumable"},
     [0xA40000] = {"garlic_powerup", "toggle"},
     [0xA40100] = {"bull", "toggle"},
     [0xA40200] = {"jet", "toggle"},
