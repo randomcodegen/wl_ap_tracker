@@ -2,8 +2,8 @@
 	"versions": [
 		{
 			"package_version": "1.1.5",
-			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.4/wl_ap_tracker_1.1.4.zip",
-			"sha256": "c5b9a4b10bc26d0d59c7b74f27aaec9753ac9a3e4955a77cfde0febe901ae926",
+			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.5/wl_ap_tracker_1.1.5.zip",
+			"sha256": "a102af7ade962ea4715df182d535f09c0a402bc5841847be43603b40a5c62142",
 			"changelog": ["Added broadcast view"]
 		},
 		{
