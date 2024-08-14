@@ -10,3 +10,4 @@ ScriptHost:LoadScript("scripts/loadlocations.lua")
 ScriptHost:LoadScript("scripts/autotracking.lua")
 
 Tracker:AddLayouts("layouts/tracker.json")
+Tracker:AddLayouts("layouts/broadcast.json")
