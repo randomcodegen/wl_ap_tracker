@@ -3,7 +3,7 @@
 		{
 			"package_version": "1.1.6",
 			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.6/wl_ap_tracker_1.1.6.zip",
-			"sha256": "9348f34ffd0a48c7e1d9199d00946c59728dc5e92dfff370e105516a0231e5d8",
+			"sha256": "a3a92badd28894fc2df1fa4cb5cb8c4c4ab36edb9438dd3e5bd91b13aa0102b0",
 			"changelog": ["Fixed logic bug in Course 26"]
 		},
 		{

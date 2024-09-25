@@ -2,7 +2,7 @@
     "name": "Wario Land (GB) - Archipelago Tracker",
     "game_name": "Wario Land",
     "platform": "Game Boy",
-    "package_version": "1.1.5",
+    "package_version": "1.1.6",
     "package_uid": "warioland_ap",
     "author": "rand(0) and bangerra",
     "variants": {
