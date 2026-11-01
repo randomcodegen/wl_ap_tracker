@@ -1,28 +1,36 @@
 {
-	"versions": [
-		{
-			"package_version": "1.1.7",
-			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.7/wl_ap_tracker_1.1.7.zip",
-			"sha256": "ca200ab8996e369295a70f3425a244ee25301e36c6a66c11d93ac61afcbbcca0",
-			"changelog": ["Fixed course 40 hidden block location"]
-		},
-		{
-			"package_version": "1.1.6",
-			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.6/wl_ap_tracker_1.1.6.zip",
-			"sha256": "a3a92badd28894fc2df1fa4cb5cb8c4c4ab36edb9438dd3e5bd91b13aa0102b0",
-			"changelog": ["Fixed logic bug in Course 26"]
-		},
-		{
-			"package_version": "1.1.5",
-			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.5/wl_ap_tracker_1.1.5.zip",
-			"sha256": "a102af7ade962ea4715df182d535f09c0a402bc5841847be43603b40a5c62142",
-			"changelog": ["Added broadcast view"]
-		},
-		{
-			"package_version": "1.1.4",
-			"download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.4/wl_ap_tracker_1.1.4.zip",
-			"sha256": "c5b9a4b10bc26d0d59c7b74f27aaec9753ac9a3e4955a77cfde0febe901ae926",
-			"changelog": ["Added automatic Updates, Fixed Autotracking for Garlic Cloves"]
-		}
-	]
+  "versions": [
+    {
+      "package_version": "1.2.0",
+      "download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.2.0/wl_ap_tracker_1.2.0.zip",
+      "sha256": "cc92d1d16a5b8681d32bd59a84f9105621e78d57e170c749281ebb72f7547506",
+      "changelog": ["Support for APWorld 1.3.0"]
+    },
+    {
+      "package_version": "1.1.7",
+      "download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.7/wl_ap_tracker_1.1.7.zip",
+      "sha256": "ca200ab8996e369295a70f3425a244ee25301e36c6a66c11d93ac61afcbbcca0",
+      "changelog": ["Fixed course 40 hidden block location"]
+    },
+    {
+      "package_version": "1.1.6",
+      "download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.6/wl_ap_tracker_1.1.6.zip",
+      "sha256": "a3a92badd28894fc2df1fa4cb5cb8c4c4ab36edb9438dd3e5bd91b13aa0102b0",
+      "changelog": ["Fixed logic bug in Course 26"]
+    },
+    {
+      "package_version": "1.1.5",
+      "download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.5/wl_ap_tracker_1.1.5.zip",
+      "sha256": "a102af7ade962ea4715df182d535f09c0a402bc5841847be43603b40a5c62142",
+      "changelog": ["Added broadcast view"]
+    },
+    {
+      "package_version": "1.1.4",
+      "download_url": "https://github.com/randomcodegen/wl_ap_tracker/releases/download/1.1.4/wl_ap_tracker_1.1.4.zip",
+      "sha256": "c5b9a4b10bc26d0d59c7b74f27aaec9753ac9a3e4955a77cfde0febe901ae926",
+      "changelog": [
+        "Added automatic Updates, Fixed Autotracking for Garlic Cloves"
+      ]
+    }
+  ]
 }
