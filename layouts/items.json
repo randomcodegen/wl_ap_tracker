@@ -1,178 +1,229 @@
 {
-    "abilities": {
+  "abilities": {
+    "type": "dock",
+    "dock": "left",
+    "h_alignment": "left",
+    "v_alignment": "center",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "4,4",
+        "rows": [
+          ["climb", "duck", "dash"],
+          ["create_coin", "highjump"]
+        ]
+      }
+    ]
+  },
+  "powerups": {
+    "type": "dock",
+    "dock": "top",
+    "h_alignment": "center",
+    "v_alignment": "center",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "4,4",
+        "rows": [
+          ["progressive_powerup"],
+          ["garlic_powerup", "bull", "dragon", "jet"]
+        ]
+      }
+    ]
+  },
+  "settings": {
+    "type": "dock",
+    "dock": "left",
+    "h_alignment": "center",
+    "v_alignment": "top",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "4,4",
+        "rows": [
+          [
+            "goal",
+            "treasure_checks",
+            "world_unlocks",
+            "get_previous_powerups",
+            "boss_unlocks",
+            "level_unlocks"
+          ],
+          ["boss_tokens", "bosses_required", "blocksanity"],
+          ["garlic_cloves", "garlic_cloves_required", "tab_switch"]
+        ]
+      }
+    ]
+  },
+  "unlocks": {
+    "type": "dock",
+    "dock": "bottom",
+    "h_alignment": "center",
+    "v_alignment": "bottom",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "10,10",
+        "rows": [
+          [
+            "ricebeach",
+            "mtteapot",
+            "sherbetland",
+            "stovecanyon",
+            "ssteacup",
+            "parsleywoods",
+            "syrupcastle"
+          ],
+          [
+            "ricebeach_bossunlock",
+            "mtteapot_bossunlock",
+            "sherbetland_bossunlock",
+            "stovecanyon_bossunlock",
+            "ssteacup_bossunlock",
+            "parsleywoods_bossunlock",
+            "syrupcastle_bossunlock"
+          ]
+        ]
+      }
+    ]
+  },
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "horizontal",
+    "content": [
+      {
         "type": "dock",
-        "dock": "left",
-        "h_alignment": "left",
-        "v_alignment": "center",
         "content": [
-            {
-                "type": "itemgrid",
-                "item_margin": "4,4",
-                "rows": [
-                    [
-                        "climb",
-                        "duck",
-                        "dash"
-                    ],
-                    [                      
-                        "create_coin",
-                        "highjump"
-                    ],
-                ]
-            }
+          {
+            "type": "group",
+            "header": "Abilities",
+            "dock": "left",
+            "h_alignment": "center",
+            "content": [
+              {
+                "type": "layout",
+                "key": "abilities"
+              }
+            ]
+          }
         ]
-    },
-	"powerups": {
+      },
+      {
         "type": "dock",
-        "dock": "top",
-        "h_alignment": "center",
-        "v_alignment": "center",
         "content": [
-            {
-                "type": "itemgrid",
-                "item_margin": "4,4",
-                "rows": [
-                    [
-                        "progressive_powerup",
-                    ],
-                    [
-                        "garlic_powerup",
-                        "bull",
-                        "dragon",
-						"jet"
-                    ]
-                ]
+          {
+            "type": "group",
+            "header": "Powerups",
+            "dock": "top",
+            "h_alignment": "center",
+            "content": {
+              "type": "layout",
+              "key": "powerups"
             }
+          }
         ]
-    },
-	"settings": {
+      },
+      {
         "type": "dock",
-        "dock": "left",
-        "h_alignment": "center",
-        "v_alignment": "top",
         "content": [
-            {
-                "type": "itemgrid",
-                "item_margin": "4,4",
-                "rows": [
-                    [
-                        "goal",
-                        "treasure_checks",
-						"world_unlocks",
-						"boss_unlocks"
-                    ],
-                    [
-                        "boss_tokens",
-						"bosses_required",
-						"blocksanity"
-                    ],
-                    [
-						"garlic_cloves",
-                        "garlic_cloves_required",
-						"tab_switch"
-                    ]
-                ]
+          {
+            "type": "group",
+            "header": "Settings",
+            "dock": "top",
+            "h_alignment": "center",
+            "content": {
+              "type": "layout",
+              "key": "settings"
             }
+          }
         ]
-    },
-	"unlocks": {
+      },
+      {
         "type": "dock",
-        "dock": "bottom",
-        "h_alignment": "center",
-        "v_alignment": "bottom",
         "content": [
-            {
-                "type": "itemgrid",
-                "item_margin": "10,10",
-                "rows": [
-                    [
-                        "ricebeach",
-						"mtteapot",
-						"sherbetland",
-						"stovecanyon",
-						"ssteacup",
-						"parsleywoods",
-						"syrupcastle"
-                    ],
-                    [
-                        "ricebeach_bossunlock",
-						"mtteapot_bossunlock",
-						"sherbetland_bossunlock",
-						"stovecanyon_bossunlock",
-						"ssteacup_bossunlock",
-						"parsleywoods_bossunlock",
-						"syrupcastle_bossunlock"
-                    ],
-                ]
+          {
+            "type": "group",
+            "header": "Unlocks",
+            "dock": "bottom",
+            "h_alignment": "center",
+            "content": {
+              "type": "layout",
+              "key": "unlocks"
             }
+          }
         ]
-    },
-	"shared_item_grid": {
-        "type": "array",
-        "orientation": "horizontal",
-        "content": [
-            {
-                "type": "dock",
-                "content": [
-                    {
-                        "type": "group",
-                        "header": "Abilities",
-                        "dock": "left",
-                        "h_alignment": "center",
-                        "content": [
-                            {
-                                "type": "layout",
-                                "key": "abilities"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "type": "dock",
-                "content": [
-                    {
-                        "type": "group",
-                        "header": "Powerups",
-                        "dock": "top",
-                        "h_alignment": "center",
-                        "content": {
-                            "type": "layout",
-                            "key": "powerups"
-                        }
-                    },
-                ]
-            },
-			{
-                "type": "dock",
-                "content": [
-                    {
-                        "type": "group",
-                        "header": "Settings",
-                        "dock": "top",
-                        "h_alignment": "center",
-                        "content": {
-                            "type": "layout",
-                            "key": "settings"
-                        }
-                    },
-                ]
-            },
-			{
-                "type": "dock",
-                "content": [
-                    {
-                        "type": "group",
-                        "header": "Unlocks",
-                        "dock": "bottom",
-                        "h_alignment": "center",
-                        "content": {
-                            "type": "layout",
-                            "key": "unlocks"
-                        }
-                    },
-                ]
-            },
-        ]
-    }
+      }
+    ]
+  },
+  "course_unlocks": {
+    "type": "array",
+    "orientation": "vertical",
+    "content": [
+      {
+        "type": "group",
+        "header": "Rice Beach: 01, 02, 03, 04, 06",
+        "content": {
+          "type": "itemgrid",
+          "rows": [["course01", "course02", "course03", "course04", "course06"]]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Mt. Teapot: 07, 08, 09, 10, 11, 12",
+        "content": {
+          "type": "itemgrid",
+          "rows": [
+            [
+              "course07",
+              "course08",
+              "course09",
+              "course10",
+              "course11",
+              "course12"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Stove Canyon: 20, 21, 22, 23, 24",
+        "content": {
+          "type": "itemgrid",
+          "rows": [["course20", "course21", "course22", "course23", "course24"]]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Parsley Woods: 31, 32, 33, 34, 35",
+        "content": {
+          "type": "itemgrid",
+          "rows": [["course31", "course32", "course33", "course34", "course35"]]
+        }
+      },
+      {
+        "type": "group",
+        "header": "SS Tea Cup: 26, 27, 28, 29",
+        "content": {
+          "type": "itemgrid",
+          "rows": [["course26", "course27", "course28", "course29"]]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Sherbet Land: 14, 15, 16, 17, 18",
+        "content": {
+          "type": "itemgrid",
+          "rows": [["course14", "course15", "course16", "course17", "course18"]]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Syrup Castle: 37, 38, 39",
+        "content": {
+          "type": "itemgrid",
+          "rows": [["course37", "course38", "course39"]]
+        }
+      }
+    ]
+  }
 }

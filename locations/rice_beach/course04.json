@@ -1,36 +1,36 @@
 [
-	{
-		"name": "Rice Beach 04",
-		"access_rules": ["ricebeach"],
-		"sections": [
-			{
-				"ref": "Rice Beach 04 - Normal Exit/Normal Exit"
-			},
-			{
-				"ref": "Rice Beach 04 - Block 1/Block 1"
-			},
-			{
-				"ref": "Rice Beach 04 - Block 2/Block 2"
-			},
-			{
-				"ref": "Rice Beach 04 - Block 3/Block 3"
-			},
-			{
-				"ref": "Rice Beach 04 - Block 4/Block 4"
-			},
-			{
-				"ref": "Rice Beach 04 - Block 5/Block 5"
-			},
-			{
-				"ref": "Rice Beach 04 - Block 6/Block 6"
-			}
-		],
-		"map_locations": [
-			{
-				"map": "Rice Beach",
-				"x": 35,
-				"y": 52
-			}
-		]
-	}
+  {
+    "name": "Rice Beach 04",
+    "access_rules": ["$world_access|ricebeach,$course_access|course04"],
+    "sections": [
+      {
+        "ref": "Rice Beach 04 - Normal Exit/Normal Exit"
+      },
+      {
+        "ref": "Rice Beach 04 - Block 1/Block 1"
+      },
+      {
+        "ref": "Rice Beach 04 - Block 2/Block 2"
+      },
+      {
+        "ref": "Rice Beach 04 - Block 3/Block 3"
+      },
+      {
+        "ref": "Rice Beach 04 - Block 4/Block 4"
+      },
+      {
+        "ref": "Rice Beach 04 - Block 5/Block 5"
+      },
+      {
+        "ref": "Rice Beach 04 - Block 6/Block 6"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Rice Beach",
+        "x": 35,
+        "y": 52
+      }
+    ]
+  }
 ]

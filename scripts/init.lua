@@ -1,6 +1,7 @@
 ScriptHost:LoadScript("scripts/logic.lua")
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/modifiers.json")
+Tracker:AddItems("items/courses.json")
 
 Tracker:AddMaps("maps/maps.json")
 Tracker:AddLayouts("layouts/items.json")

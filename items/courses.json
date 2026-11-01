@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Course 01 - Unlock",
+    "type": "toggle",
+    "codes": "course01",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 02 - Unlock",
+    "type": "toggle",
+    "codes": "course02",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 03 - Unlock",
+    "type": "toggle",
+    "codes": "course03",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 04 - Unlock",
+    "type": "toggle",
+    "codes": "course04",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 06 - Unlock",
+    "type": "toggle",
+    "codes": "course06",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 07 - Unlock",
+    "type": "toggle",
+    "codes": "course07",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 08 - Unlock",
+    "type": "toggle",
+    "codes": "course08",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 09 - Unlock",
+    "type": "toggle",
+    "codes": "course09",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 10 - Unlock",
+    "type": "toggle",
+    "codes": "course10",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 11 - Unlock",
+    "type": "toggle",
+    "codes": "course11",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 12 - Unlock",
+    "type": "toggle",
+    "codes": "course12",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 14 - Unlock",
+    "type": "toggle",
+    "codes": "course14",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 15 - Unlock",
+    "type": "toggle",
+    "codes": "course15",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 16 - Unlock",
+    "type": "toggle",
+    "codes": "course16",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 17 - Unlock",
+    "type": "toggle",
+    "codes": "course17",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 18 - Unlock",
+    "type": "toggle",
+    "codes": "course18",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 20 - Unlock",
+    "type": "toggle",
+    "codes": "course20",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 21 - Unlock",
+    "type": "toggle",
+    "codes": "course21",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 22 - Unlock",
+    "type": "toggle",
+    "codes": "course22",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 23 - Unlock",
+    "type": "toggle",
+    "codes": "course23",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 24 - Unlock",
+    "type": "toggle",
+    "codes": "course24",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 26 - Unlock",
+    "type": "toggle",
+    "codes": "course26",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 27 - Unlock",
+    "type": "toggle",
+    "codes": "course27",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 28 - Unlock",
+    "type": "toggle",
+    "codes": "course28",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 29 - Unlock",
+    "type": "toggle",
+    "codes": "course29",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 31 - Unlock",
+    "type": "toggle",
+    "codes": "course31",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 32 - Unlock",
+    "type": "toggle",
+    "codes": "course32",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 33 - Unlock",
+    "type": "toggle",
+    "codes": "course33",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 34 - Unlock",
+    "type": "toggle",
+    "codes": "course34",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 35 - Unlock",
+    "type": "toggle",
+    "codes": "course35",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 37 - Unlock",
+    "type": "toggle",
+    "codes": "course37",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 38 - Unlock",
+    "type": "toggle",
+    "codes": "course38",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  },
+  {
+    "name": "Course 39 - Unlock",
+    "type": "toggle",
+    "codes": "course39",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  }
+]

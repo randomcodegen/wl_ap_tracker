@@ -15,20 +15,55 @@ function GenieCost()
 	return (currentTokens >= requiredTokens)
 end
 
+function world_access(code)
+    return not has("world_unlocks") or has(code)
+end
+
+function course_access(code)
+    return not has("level_unlocks") or has(code)
+end
+
+function boss_access(code)
+    return not has("boss_unlocks") or has(code)
+end
+
+function can_flood_rice_beach()
+    return world_access("ricebeach") and boss_access("ricebeach_bossunlock")
+end
+
+function can_clear_course12()
+    return world_access("mtteapot") and course_access("course12") and (can_jet() or can_climb())
+end
+
+function can_drain_lake()
+    return world_access("parsleywoods") and course_access("course32")
+end
+
+function has_powerup(code, tier)
+    if has(code) or has("powerup_" .. tier) then return true end
+    if has("get_previous_powerups") then
+        local powers = {"garlic_powerup", "bull", "dragon", "jet"}
+        for i = tier + 1, #powers do
+            if has(powers[i]) then return true end
+        end
+    end
+    return false
+end
+
 function can_garlic()
-    return has("garlic_powerup") or has("powerup_1")
+    return has_powerup("garlic_powerup", 1)
 end
 
 function can_bull()
-    return has("bull") or has("powerup_2")
+    return has_powerup("bull", 2)
 end
 
 function can_dragon()
-    return has("dragon") or has("powerup_3")
+    return has_powerup("dragon", 3)
 end
 
 function can_jet()
-    return has("jet") or has("powerup_4")
+    return has_powerup("jet", 4)
 end
 
 function can_create_coin()

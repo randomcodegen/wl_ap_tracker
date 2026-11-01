@@ -8,6 +8,9 @@ SLOT_DATA = nil
 function onClear(slot_data)
     SLOT_DATA = slot_data
     CUR_INDEX = -1
+    for _, code in ipairs({"rb_flooded", "pw_drained", "mt_boss_tile_unlocked"}) do
+        Tracker:FindObjectForCode(code).Active = false
+    end
 	--for k, v in pairs(SLOT_DATA) do
 	--	print(string.format("called onClear, slot_data:\n%s %s", k, v))
 	--end
@@ -67,17 +70,20 @@ function onClear(slot_data)
         blocksanity.Active = (slot_data['blocksanity'] ~= 0)
     end
 	
-	if slot_data['goal']==0 then
-		Tracker:FindObjectForCode("goal").Active = 0
-		Tracker:FindObjectForCode("bosses_required").AcquiredCount = tonumber(slot_data["bosses_required"])
-	end
-	
-	if slot_data['goal']==1 then
-		required_cloves=math.ceil(tonumber(slot_data["number_of_garlic_cloves"])*(tonumber(slot_data["percentage_of_garlic_cloves"])/100))
-		Tracker:FindObjectForCode("goal").Active = 1
-		Tracker:FindObjectForCode("garlic_cloves_required").AcquiredCount = required_cloves
-	end
-	
+    Tracker:FindObjectForCode("level_unlocks").Active = (slot_data["level_unlocks"] == 1)
+    Tracker:FindObjectForCode("goal").Active = (slot_data["goal"] == 1)
+    Tracker:FindObjectForCode("bosses_required").AcquiredCount = tonumber(slot_data["bosses_required"]) or 0
+    Tracker:FindObjectForCode("get_previous_powerups").Active = (slot_data["get_previous_powerups"] == 1)
+    local required_cloves = 0
+    if slot_data["goal"] == 1 then
+        required_cloves = tonumber(slot_data["required_garlic_cloves"])
+        if required_cloves == nil then
+            required_cloves = math.floor((tonumber(slot_data["number_of_garlic_cloves"]) *
+                tonumber(slot_data["percentage_of_garlic_cloves"]) + 99) / 100)
+        end
+    end
+    Tracker:FindObjectForCode("garlic_cloves_required").AcquiredCount = required_cloves
+
 	if Archipelago.PlayerNumber>-1 then
 		EVENT_ID="warioland_curlevelid_"..TEAM_NUMBER.."_"..PLAYER_ID
 		Archipelago:SetNotify({EVENT_ID})
@@ -167,7 +173,7 @@ function updateEvents(value)
 				CURRENT_ROOM = TAB_MAPPING[value]
 				--print(string.format("Updating ID %x to Tab %s",value,CURRENT_ROOM))
 			else
-				CURRENT_ROOM = 0x30
+				CURRENT_ROOM = TAB_MAPPING[0x30]
 			end
         Tracker:UiHint("ActivateTab", CURRENT_ROOM)
 		end

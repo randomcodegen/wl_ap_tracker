@@ -1,192 +1,206 @@
 [
-    {
-        "name": "Goal",
-        "type": "toggle",
-        "img": "images/items/garlic.png",
-        "disabled_img": "images/items/genie.png",
-        "codes": "goal"
-    },
-    {
-        "name": "Treasure Checks",
-        "type": "toggle",
-        "img": "images/items/treasure.png",
-        "disabled_img": "images/items/treasure_no.png",
-        "codes": "treasure_checks"
-    },
-	{
-        "name": "Worlds Locked",
-        "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "world_unlocks"
-    },
-	{
-        "name": "Bosses Locked",
-        "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock_no.png",
-        "codes": "boss_unlocks"
-    },
-	{
-        "name": "Blocksanity",
-        "type": "toggle",
-        "img": "images/checks/block.png",
-        "disabled_img": "images/checks/block_disabled.png",
-        "codes": "blocksanity"
-    },
-	{
-        "name": "Auto Tab Switching",
-        "type": "toggle",
-        "img": "images/items/tab_switch.png",
-        "disabled_img": "images/items/tab_switch_no.png",
-        "codes": "tab_switch"
-    },
-    {
-        "name": "Bosses Required",
-        "type": "consumable",
-        "img": "images/items/boss.png",
-        "initial_quantity": 0,
-        "min_quantity": 0,
-        "max_quantity": 6,
-        "increment": 1,
-        "overlay_font_size": 14,
-        "codes": "bosses_required"
-    },
-    {
-        "name": "Garlic Cloves Required",
-        "type": "consumable",
-        "img": "images/items/garlic.png",
-        "initial_quantity": 0,
-        "min_quantity": 0,
-        "max_quantity": 30,
-        "increment": 1,
-        "overlay_font_size": 14,
-        "codes": "garlic_cloves_required"
-    },
-	{
-        "name": "Rice Beach",
-        "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "ricebeach"
-    },
-	{
-        "name": "Mt. Teapot",
-        "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "mtteapot"
-    },
-	{
-        "name": "Stove Canyon",
-        "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "stovecanyon"
-    },
-	{
-        "name": "Parsley Woods",
-        "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "parsleywoods"
-    },
-	{
-        "name": "SS Teacup",
-        "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "ssteacup"
-    },
-	{
-        "name": "Sherbet Land",
-        "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "sherbetland"
-    },
-	{
-        "name": "Syrup Castle",
-        "type": "toggle",
-        "img": "images/items/world_lock.png",
-        "disabled_img": "images/items/world_lock_no.png",
-        "codes": "syrupcastle"
-    },
-	{
-        "name": "Rice Beach Boss Unlock",
-        "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock_no.png",
-        "codes": "ricebeach_bossunlock"
-    },
-	{
-        "name": "Mt. Teapot Boss Unlock",
-        "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock_no.png",
-        "codes": "mtteapot_bossunlock"
-    },
-	{
-        "name": "Stove Canyon Boss Unlock",
-        "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock_no.png",
-        "codes": "stovecanyon_bossunlock"
-    },
-	{
-        "name": "Parsley Woods Boss Unlock",
-        "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock_no.png",
-        "codes": "parsleywoods_bossunlock"
-    },
-	{
-        "name": "SS Teacup Boss Unlock",
-        "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock_no.png",
-        "codes": "ssteacup_bossunlock"
-    },
-	{
-        "name": "Sherbet Land Boss Unlock",
-        "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock_no.png",
-        "codes": "sherbetland_bossunlock"
-    },
-	{
-        "name": "Syrup Castle Boss Unlock",
-        "type": "toggle",
-        "img": "images/items/boss_lock.png",
-        "disabled_img": "images/items/boss_lock.png",
-        "codes": "syrupcastle_bossunlock"
-    },
-	{
-		"name": "Rice Beach Flooded",
-        "type": "toggle",
-        "img": "",
-        "disabled_img": "",
-        "codes": "rb_flooded"
-	},
-	{
-		"name": "Parsley Woods Lake Drained",
-        "type": "toggle",
-        "img": "",
-        "disabled_img": "",
-        "codes": "pw_drained"
-	},
-	{
-		"name": "Teapot boss tile unlocked",
-        "type": "toggle",
-        "img": "",
-        "disabled_img": "",
-        "codes": "mt_boss_tile_unlocked"
-	},
-	{
-		"name": "Current Level",
-        "type": "progressive",
-        "img": "",
-        "disabled_img": "",
-        "codes": "cur_level_id"
-	}
+  {
+    "name": "Goal",
+    "type": "toggle",
+    "img": "images/items/garlic.png",
+    "disabled_img": "images/items/genie.png",
+    "codes": "goal"
+  },
+  {
+    "name": "Treasure Checks",
+    "type": "toggle",
+    "img": "images/items/treasure.png",
+    "disabled_img": "images/items/treasure_no.png",
+    "codes": "treasure_checks"
+  },
+  {
+    "name": "Worlds Locked",
+    "type": "toggle",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png",
+    "codes": "world_unlocks"
+  },
+  {
+    "name": "Bosses Locked",
+    "type": "toggle",
+    "initial_active_state": true,
+    "img": "images/items/boss_lock.png",
+    "disabled_img": "images/items/boss_lock_no.png",
+    "codes": "boss_unlocks"
+  },
+  {
+    "name": "Blocksanity",
+    "type": "toggle",
+    "img": "images/checks/block.png",
+    "disabled_img": "images/checks/block_disabled.png",
+    "codes": "blocksanity"
+  },
+  {
+    "name": "Auto Tab Switching",
+    "type": "toggle",
+    "img": "images/items/tab_switch.png",
+    "disabled_img": "images/items/tab_switch_no.png",
+    "codes": "tab_switch"
+  },
+  {
+    "name": "Bosses Required",
+    "type": "consumable",
+    "img": "images/items/boss.png",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 6,
+    "increment": 1,
+    "overlay_font_size": 14,
+    "codes": "bosses_required"
+  },
+  {
+    "name": "Garlic Cloves Required",
+    "type": "consumable",
+    "img": "images/items/garlic.png",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 30,
+    "increment": 1,
+    "overlay_font_size": 14,
+    "codes": "garlic_cloves_required"
+  },
+  {
+    "name": "Rice Beach",
+    "type": "toggle",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png",
+    "codes": "ricebeach"
+  },
+  {
+    "name": "Mt. Teapot",
+    "type": "toggle",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png",
+    "codes": "mtteapot"
+  },
+  {
+    "name": "Stove Canyon",
+    "type": "toggle",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png",
+    "codes": "stovecanyon"
+  },
+  {
+    "name": "Parsley Woods",
+    "type": "toggle",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png",
+    "codes": "parsleywoods"
+  },
+  {
+    "name": "SS Teacup",
+    "type": "toggle",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png",
+    "codes": "ssteacup"
+  },
+  {
+    "name": "Sherbet Land",
+    "type": "toggle",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png",
+    "codes": "sherbetland"
+  },
+  {
+    "name": "Syrup Castle",
+    "type": "toggle",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png",
+    "codes": "syrupcastle"
+  },
+  {
+    "name": "Rice Beach Boss Unlock",
+    "type": "toggle",
+    "img": "images/items/boss_lock.png",
+    "disabled_img": "images/items/boss_lock_no.png",
+    "codes": "ricebeach_bossunlock"
+  },
+  {
+    "name": "Mt. Teapot Boss Unlock",
+    "type": "toggle",
+    "img": "images/items/boss_lock.png",
+    "disabled_img": "images/items/boss_lock_no.png",
+    "codes": "mtteapot_bossunlock"
+  },
+  {
+    "name": "Stove Canyon Boss Unlock",
+    "type": "toggle",
+    "img": "images/items/boss_lock.png",
+    "disabled_img": "images/items/boss_lock_no.png",
+    "codes": "stovecanyon_bossunlock"
+  },
+  {
+    "name": "Parsley Woods Boss Unlock",
+    "type": "toggle",
+    "img": "images/items/boss_lock.png",
+    "disabled_img": "images/items/boss_lock_no.png",
+    "codes": "parsleywoods_bossunlock"
+  },
+  {
+    "name": "SS Teacup Boss Unlock",
+    "type": "toggle",
+    "img": "images/items/boss_lock.png",
+    "disabled_img": "images/items/boss_lock_no.png",
+    "codes": "ssteacup_bossunlock"
+  },
+  {
+    "name": "Sherbet Land Boss Unlock",
+    "type": "toggle",
+    "img": "images/items/boss_lock.png",
+    "disabled_img": "images/items/boss_lock_no.png",
+    "codes": "sherbetland_bossunlock"
+  },
+  {
+    "name": "Syrup Castle Boss Unlock",
+    "type": "toggle",
+    "img": "images/items/boss_lock.png",
+    "disabled_img": "images/items/boss_lock.png",
+    "codes": "syrupcastle_bossunlock"
+  },
+  {
+    "name": "Rice Beach Flooded",
+    "type": "toggle",
+    "img": "",
+    "disabled_img": "",
+    "codes": "rb_flooded"
+  },
+  {
+    "name": "Parsley Woods Lake Drained",
+    "type": "toggle",
+    "img": "",
+    "disabled_img": "",
+    "codes": "pw_drained"
+  },
+  {
+    "name": "Teapot boss tile unlocked",
+    "type": "toggle",
+    "img": "",
+    "disabled_img": "",
+    "codes": "mt_boss_tile_unlocked"
+  },
+  {
+    "name": "Current Level",
+    "type": "progressive",
+    "img": "",
+    "disabled_img": "",
+    "codes": "cur_level_id"
+  },
+  {
+    "name": "Get Previous Powerups",
+    "type": "toggle",
+    "img": "images/items/wario_jet.png",
+    "codes": "get_previous_powerups"
+  },
+  {
+    "name": "Locked Courses",
+    "type": "toggle",
+    "codes": "level_unlocks",
+    "img": "images/items/world_lock.png",
+    "disabled_img": "images/items/world_lock_no.png"
+  }
 ]

@@ -43,7 +43,6 @@ LOCATION_MAPPING = {
 	[0xa81401] = {"Syrup Castle 37 - Normal Exit", "Normal Exit"},
 	[0xa81402] = {"Syrup Castle 38 - Normal Exit", "Normal Exit"},
 	[0xa81404] = {"Syrup Castle 39 - Normal Exit", "Normal Exit"},
-	[0xa81408] = {"Syrup Castle 40 - Final Boss", "Final Boss"},
 	[0xa80e20] = {"Rice Beach 03 - Treasure A", "Treasure A"},
 	[0xa80f08] = {"Mt. Teapot 09 - Treasure B", "Treasure B"},
 	[0xa80e02] = {"Mt. Teapot 11 - Treasure C", "Treasure C"},

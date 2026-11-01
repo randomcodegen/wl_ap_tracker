@@ -1,39 +1,41 @@
 [
-	{
-		"name": "Stove Canyon 25",
-		"access_rules": ["stovecanyon, stovecanyon_bossunlock"],
-		"sections": [
-			{
-				"ref": "Stove Canyon 25 - Boss/Boss"
-			},
-			{
-				"ref": "Stove Canyon 25 - Block 1/Block 1"
-			},
-			{
-				"ref": "Stove Canyon 25 - Block 2/Block 2"
-			},
-			{
-				"ref": "Stove Canyon 25 - Block 3/Block 3"
-			},
-			{
-				"ref": "Stove Canyon 25 - Block 4/Block 4"
-			},
-			{
-				"ref": "Stove Canyon 25 - Block 5/Block 5"
-			},
-			{
-				"ref": "Stove Canyon 25 - Block 6/Block 6"
-			},
-			{
-				"ref": "Stove Canyon 25 - Block 7/Block 7"
-			}
-		],
-		"map_locations": [
-			{
-				"map": "Stove Canyon",
-				"x": 151,
-				"y": 80
-			}
-		]
-	}
+  {
+    "name": "Stove Canyon 25",
+    "access_rules": [
+      "$world_access|stovecanyon, $boss_access|stovecanyon_bossunlock"
+    ],
+    "sections": [
+      {
+        "ref": "Stove Canyon 25 - Boss/Boss"
+      },
+      {
+        "ref": "Stove Canyon 25 - Block 1/Block 1"
+      },
+      {
+        "ref": "Stove Canyon 25 - Block 2/Block 2"
+      },
+      {
+        "ref": "Stove Canyon 25 - Block 3/Block 3"
+      },
+      {
+        "ref": "Stove Canyon 25 - Block 4/Block 4"
+      },
+      {
+        "ref": "Stove Canyon 25 - Block 5/Block 5"
+      },
+      {
+        "ref": "Stove Canyon 25 - Block 6/Block 6"
+      },
+      {
+        "ref": "Stove Canyon 25 - Block 7/Block 7"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Stove Canyon",
+        "x": 151,
+        "y": 80
+      }
+    ]
+  }
 ]
